@@ -13,8 +13,8 @@ This is only a recommendation, do as you wish.
 
 ## Circle 02 🟢
 
-- 1️⃣ **MiniTalk** - MiniTalk https://github.com/pasqualerossi/MiniTalk
-- 2️⃣ So_Long - https://github.com/pasqualerossi/So_Long
+- 1️⃣ MiniTalk over PipeX - https://github.com/pasqualerossi/MiniTalk
+- 2️⃣ So_Long over Fract-ol and FdF - https://github.com/pasqualerossi/So_Long
 - 3️⃣ Push_Swap - https://github.com/pasqualerossi/Push_Swap
 - 
 Exam Rank 02 - Do this exam throughout this ring, as you can fail this exam so many times and retry until you pass -
@@ -30,7 +30,7 @@ Exam Rank 03 - Do this exam throughout this ring, as you can fail this exam so m
 ## Circle 04 🟢
 
 - 1️⃣ NetPractice - https://github.com/pasqualerossi/NetPractice
-- 2️⃣ Cub3D or MiniRT - https://github.com/pasqualerossi/Cub3D
+- 2️⃣ Cub3D over MiniRT - https://github.com/pasqualerossi/Cub3D
 - 3️⃣ C++ Modules 00-08 - https://github.com/pasqualerossi/C-Plus-Plus
 
 Exam Rank 04 - Do this exam throughout this ring, as you can fail this exam so many times and retry until you pass - https://github.com/pasqualerossi/42-School-Exam-Rank-04
@@ -39,7 +39,7 @@ Exam Rank 04 - Do this exam throughout this ring, as you can fail this exam so m
 
 - 1️⃣ Inception - 
 - 2️⃣ Ft_Containers - 
-- 3️⃣ Webserv or Ft_Irc - 
+- 3️⃣ Ft_Irc over Webserv - 
 
 Exam Rank 05 - Do this exam throughout this ring, as you can fail this exam so many times and retry until you pass. 
 
