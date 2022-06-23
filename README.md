@@ -1,10 +1,12 @@
-# 42 Projects Guide Information 🖥️
+# 42 Student Project Guide
+
+## 42 Projects Guide Information 🖥️
 What order you should do the 42 Projects in, from the **Easiest** to **Hardest** (1️⃣ being the **Easiest**) in each ring. 
 Easiest means the simplistic logic to understand the project and the shortest code used. 
 
 This is only a recommendation, do as you wish. 
 
-# Projects
+## Projects
 
 ### ⚪ Ring 00
 - 1️⃣ Libft - https://github.com/pasqualerossi/Libft
@@ -34,7 +36,7 @@ This is only a recommendation, do as you wish.
 ### ⚫ Ring 06
 - 1️⃣ - Ft_Transcendence - (Link Coming Soon) 
 
-# Exams
+## Exams
 - 1️⃣ Exam Rank 02 - You can fail this exam so many times and continue retrying until you pass -
 https://github.com/pasqualerossi/42-School-Exam-Rank-02
 - 2️⃣ Exam Rank 03 - You can fail this exam so many times and continue retrying until you pass - https://github.com/pasqualerossi/42-School-Exam-Rank-03 
@@ -42,7 +44,7 @@ https://github.com/pasqualerossi/42-School-Exam-Rank-02
 - 4️⃣ Exam Rank 05 - You can fail this exam so many times and continue retrying until you pass - (Link Coming Soon) 
 - 5️⃣ Exam Rank 06 - You can fail this exam so many times and continue retrying until you pass - (Link Coming Soon) 
 
-# Coming Soon
+## Coming Soon
 
 - Project Resources
 - Project Testers
