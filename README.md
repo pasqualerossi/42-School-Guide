@@ -1,6 +1,9 @@
-# 42 Student Project Guide
+# 42 School Project Guide
 
-## 42 Projects Guide Information 🖥️
+This guide covers the following: 
+- 42 School Projects, Resources, Submission Information, Evaluations and 42 On-Campus Resources
+
+## 🖥️ &nbsp; 42 School Projects
 What order you should do the 42 Projects in, from the **Easiest** to **Hardest** (1️⃣ being the **Easiest**) in each ring. 
 Easiest means the simplistic logic to understand the project and the shortest code used. 
 
