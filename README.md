@@ -1,5 +1,6 @@
 # 42 Projects Guide Information 🖥️
-What order you should do the 42 Projects in, from the **Easiest** to **Hardest** (1️⃣ being the **Easiest**) in each Inner Circle Ring. Easiest means the simplistic logic to understand the project and the shortest code used. 
+What order you should do the 42 Projects in, from the **Easiest** to **Hardest** (1️⃣ being the **Easiest**) in each ring. 
+Easiest means the simplistic logic to understand the project and the shortest code used. 
 
 This is only a recommendation, do as you wish. 
 
