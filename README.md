@@ -41,3 +41,11 @@ https://github.com/pasqualerossi/42-School-Exam-Rank-02
 - 3️⃣ Exam Rank 04 - You can fail this exam so many times and continue retrying until you pass - https://github.com/pasqualerossi/42-School-Exam-Rank-04
 - 4️⃣ Exam Rank 05 - You can fail this exam so many times and continue retrying until you pass - (Link Coming Soon) 
 - 5️⃣ Exam Rank 06 - You can fail this exam so many times and continue retrying until you pass - (Link Coming Soon) 
+
+# Coming Soon
+
+- Project Resources
+- Project Testers
+- Project Submission
+- Project Evaluations
+- 42 On-Campus Computer Resources
