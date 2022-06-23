@@ -39,13 +39,21 @@ This is only a recommendation, do as you wish.
 ### ⚫ Ring 06
 - 1️⃣ - Ft_Transcendence (NestJS, TypeScript, PostgreSQL & OAuth) - (Link Coming Soon) 
 
+### 🪐 Total Count
+- 15 Projects and 1 Mini-Piscine
+
 ## Exams
-- 1️⃣ Exam Rank 02 - You can fail this exam so many times and continue retrying until you pass -
-https://github.com/pasqualerossi/42-School-Exam-Rank-02
-- 2️⃣ Exam Rank 03 - You can fail this exam so many times and continue retrying until you pass - https://github.com/pasqualerossi/42-School-Exam-Rank-03 
-- 3️⃣ Exam Rank 04 - You can fail this exam so many times and continue retrying until you pass - https://github.com/pasqualerossi/42-School-Exam-Rank-04
-- 4️⃣ Exam Rank 05 - You can fail this exam so many times and continue retrying until you pass - (Link Coming Soon) 
-- 5️⃣ Exam Rank 06 - You can fail this exam so many times and continue retrying until you pass - (Link Coming Soon) 
+
+You can fail the exams so many times and continue retrying them, until you pass.
+
+- 1️⃣ Exam Rank 02 - https://github.com/pasqualerossi/42-School-Exam-Rank-02
+- 2️⃣ Exam Rank 03 - https://github.com/pasqualerossi/42-School-Exam-Rank-03 
+- 3️⃣ Exam Rank 04 - https://github.com/pasqualerossi/42-School-Exam-Rank-04
+- 4️⃣ Exam Rank 05 - (Link Coming Soon) 
+- 5️⃣ Exam Rank 06 - (Link Coming Soon) 
+
+### 🪐 Total Count
+- 5 Exams
 
 ## Coming Soon
 
