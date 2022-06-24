@@ -39,6 +39,12 @@ This is only a recommendation, do as you wish.
 ### ⚫ Ring 06
 - 1️⃣ - Ft_Transcendence (NestJS, TypeScript, PostgreSQL & OAuth) - (Link Coming Soon) 
 
+![icons8-c-programming-48](https://user-images.githubusercontent.com/58959408/175449186-97d615f5-5e69-46e7-8b6a-525e48b10aa5.png)
+![icons8-virtual-machine-48](https://user-images.githubusercontent.com/58959408/175450094-7bdd9c7d-383a-40e7-bd36-cf60a5ad902e.png)
+![icons8-console-48](https://user-images.githubusercontent.com/58959408/175449815-bf63dd03-ff1d-4172-a567-362a628e79ce.png)
+![icons8-c++-48](https://user-images.githubusercontent.com/58959408/175449262-1048c914-973f-4900-8ae8-b83ec5e99dbe.png)
+
+
 ### 🪐 Total Count
 - 15 Projects and 1 Mini-Piscine
 
