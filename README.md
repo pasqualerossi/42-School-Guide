@@ -55,10 +55,18 @@ You can fail the exams so many times and continue retrying them, until you pass.
 ### 🪐 Total Count
 - 5 Exams
 
-## Coming Soon
+## 42 Project Testers
 
-- Project Resources
-- Project Testers
-- Project Submission
-- Project Evaluations
-- 42 On-Campus Computer Resources
+- 42 Push_Swap Tester - https://github.com/pasqualerossi/42_Push_Swap_Tester
+- 42 Cursus Tester - https://github.com/pasqualerossi/42-Cursus-Tester
+- Francinette Tester - https://github.com/pasqualerossi/42-Francinette-Tester
+
+## 42 Project Evaluations
+
+- 42 Evaluator Marking Guide - https://github.com/pasqualerossi/42-Evaluations
+
+## 42 On-Campus Computer Resources
+
+- 42 Vogship Tool - https://github.com/pasqualerossi/42vogship-1
+- 42 Computer Storage Cleaner - https://github.com/pasqualerossi/Cleaner_42
+- Custom Vimrc for your Vim - https://github.com/pasqualerossi/vimrc
