@@ -9,7 +9,7 @@ Easiest means the simplistic logic to understand the project and the shortest co
 
 This is only a recommendation, do as you wish. 
 
-## Projects
+## 42 School Projects
 
 ![icons8-c-programming-48](https://user-images.githubusercontent.com/58959408/175449186-97d615f5-5e69-46e7-8b6a-525e48b10aa5.png)
 ![icons8-console-48](https://user-images.githubusercontent.com/58959408/175449815-bf63dd03-ff1d-4172-a567-362a628e79ce.png)
@@ -49,7 +49,7 @@ This is only a recommendation, do as you wish.
 ### 🪐 Total Count
 - 15 Projects and 1 Mini-Piscine
 
-## Exams
+## 42 School Exams
 
 You can fail the exams so many times and continue retrying them, until you pass.
 
