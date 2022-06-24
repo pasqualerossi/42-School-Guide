@@ -15,8 +15,8 @@ This is only a recommendation, do as you wish.
 ![icons8-console-48](https://user-images.githubusercontent.com/58959408/175449815-bf63dd03-ff1d-4172-a567-362a628e79ce.png)
 ![icons8-virtual-machine-48](https://user-images.githubusercontent.com/58959408/175450094-7bdd9c7d-383a-40e7-bd36-cf60a5ad902e.png)
 ![icons8-load-balancer-48](https://user-images.githubusercontent.com/58959408/175453731-7a769ce8-3631-458f-9126-fcef33e30255.png)
-![icons8-c++-48](https://user-images.githubusercontent.com/58959408/175449262-1048c914-973f-4900-8ae8-b83ec5e99dbe.png)
 ![icons8-add-administrator-48](https://user-images.githubusercontent.com/58959408/175453880-0620b370-00b5-4199-a8b1-b3a131a0d378.png)
+![icons8-c++-48](https://user-images.githubusercontent.com/58959408/175449262-1048c914-973f-4900-8ae8-b83ec5e99dbe.png)
 
 ### ⚪ Ring 00
 - 1️⃣ Libft (C) - https://github.com/pasqualerossi/Libft 
