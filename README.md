@@ -15,7 +15,7 @@ This is only a recommendation, do as you wish.
 - 1️⃣ Libft (C) - https://github.com/pasqualerossi/Libft 
 
 ### 🟠 Ring 01
-- 1️⃣ Born2BeRoot (Shell & Virtual Machine) - https://github.com/pasqualerossi/Step-By-Step-Born2BeRoot-Guide
+- 1️⃣ Born2BeRoot (Shell & Virtual Machine) - https://github.com/pasqualerossi/Born2BeRoot-Guide
 - 2️⃣ Ft_Printf (C) - https://github.com/pasqualerossi/Printf/tree/main/shorter%20version%20of%20printf
 - 3️⃣ Get_Next_Line (C) - https://github.com/pasqualerossi/Get_Next_Line
 
