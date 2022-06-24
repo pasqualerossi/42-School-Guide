@@ -55,6 +55,10 @@ You can fail the exams so many times and continue retrying them, until you pass.
 ### 🪐 Total Count
 - 5 Exams
 
+## 42 Project Resources
+
+- Code Visualiser Tool - https://pythontutor.com/c.html#mode=edit
+
 ## 42 Project Testers
 
 - 42 Push_Swap Tester - https://github.com/pasqualerossi/42_Push_Swap_Tester
