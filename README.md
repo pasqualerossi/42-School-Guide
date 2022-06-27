@@ -9,7 +9,7 @@ Easiest means the simplistic logic to understand the project and the shortest co
 
 This is only a recommendation, do as you wish. 
 
-## New Student Tips
+## Tips for New Students
 Coming Soon (C Visualiser, Evaluations, Resources etc.)
 
 ## 42 School Projects
