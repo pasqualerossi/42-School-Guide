@@ -34,8 +34,13 @@ This is only a recommendation, do as you wish.
 
 ### 🔵 Ring 02
 - 1️⃣ **MiniTalk** over PipeX (C) - https://github.com/pasqualerossi/MiniTalk
+  * Sending and Reciving a Message with Signals and Bit Shifting
+
 - 2️⃣ **So_Long** over Fract-ol and FdF (C) - https://github.com/pasqualerossi/So_Long
+  * Creating a 2D Game with the MiniLibx Graphics Library
+
 - 3️⃣ Push_Swap (C) - https://github.com/pasqualerossi/Push_Swap
+  * Sort Random Numbers from Lowest to Highest with an Algorithm
 
 ### 🟡 🟢 Ring 03 and Ring 04
 - 1️⃣ Philosophers (C) - https://github.com/pasqualerossi/Philosophers
