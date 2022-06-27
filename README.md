@@ -9,6 +9,9 @@ Easiest means the simplistic logic to understand the project and the shortest co
 
 This is only a recommendation, do as you wish. 
 
+## New Student Tips
+Coming Soon 
+
 ## 42 School Projects
 
 ![icons8-c-programming-48](https://user-images.githubusercontent.com/58959408/175449186-97d615f5-5e69-46e7-8b6a-525e48b10aa5.png)
