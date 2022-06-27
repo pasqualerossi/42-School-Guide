@@ -19,12 +19,18 @@ This is only a recommendation, do as you wish.
 ![icons8-c++-48](https://user-images.githubusercontent.com/58959408/175449262-1048c914-973f-4900-8ae8-b83ec5e99dbe.png)
 
 ### ⚪ Ring 00
-- 1️⃣ Libft (C) - https://github.com/pasqualerossi/Libft 
+- 1️⃣ **Libft (C)** - https://github.com/pasqualerossi/Libft
+  * Creating a Library with Headers and Makefile
 
 ### 🟠 Ring 01
-- 1️⃣ Born2BeRoot (Shell & Virtual Machine) - https://github.com/pasqualerossi/Born2BeRoot-Guide
-- 2️⃣ Ft_Printf (C) - https://github.com/pasqualerossi/Printf/tree/main/shorter%20version%20of%20printf
-- 3️⃣ Get_Next_Line (C) - https://github.com/pasqualerossi/Get_Next_Line
+- 1️⃣ **Born2BeRoot (Shell & Virtual Machine)** - https://github.com/pasqualerossi/Born2BeRoot-Guide
+  * Creating Your Own Virtual Machine with Debian
+
+- 2️⃣ **Ft_Printf (C)** - https://github.com/pasqualerossi/Printf/tree/main/shorter%20version%20of%20printf
+  * Recreating Printf with Variadic Functions
+
+- 3️⃣ **Get_Next_Line (C)** - https://github.com/pasqualerossi/Get_Next_Line 
+  * Read a line with File Descriptor, Buffer Size and Static Variables
 
 ### 🔵 Ring 02
 - 1️⃣ **MiniTalk** over PipeX (C) - https://github.com/pasqualerossi/MiniTalk
