@@ -20,7 +20,7 @@ This is only a recommendation, do as you wish.
 
 ### ⚪ Ring 00
 - 1️⃣ **Libft (C)** - https://github.com/pasqualerossi/Libft
-  * Creating a Library with Headers and Makefile
+  * Creating a Library with a Header and Makefile
 
 ### 🟠 Ring 01
 - 1️⃣ **Born2BeRoot (Shell & Virtual Machine)** - https://github.com/pasqualerossi/Born2BeRoot-Guide
