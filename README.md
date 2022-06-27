@@ -44,7 +44,11 @@ This is only a recommendation, do as you wish.
 
 ### 🟡 🟢 Ring 03 and Ring 04
 - 1️⃣ Philosophers (C) - https://github.com/pasqualerossi/Philosophers
+  * Ensure all Philosophers Eat, Think and Sleep with Multithreading
+
 - 2️⃣ NetPractice (Networking) - https://github.com/pasqualerossi/NetPractice
+  * Understand How to Configure Networks 
+
 - 3️⃣ Minishell (C) - https://github.com/pasqualerossi/Minishell
 - 4️⃣ **Cub3D** over MiniRT (C) - https://github.com/pasqualerossi/Cub3D
 - 5️⃣ C++ Modules 00-08 (C++) - https://github.com/pasqualerossi/C-Plus-Plus
