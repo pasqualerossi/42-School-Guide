@@ -1,22 +1,4 @@
-# 42 School Project Guide
-
-This guide covers the following: 
-- 42 School Projects, Resources, Submission Information, Evaluations and 42 On-Campus Resources
-
-## 🖥️ &nbsp; 42 School Project Information
-What order you should do the 42 Projects in, from the **Easiest** to **Hardest** (1️⃣ being the **Easiest**) in each ring. 
-Easiest means the simplistic logic to understand the project and the shortest code used. 
-
-This is only a recommendation, do as you wish. 
-
 ## 42 School Projects
-
-![icons8-c-programming-48](https://user-images.githubusercontent.com/58959408/175449186-97d615f5-5e69-46e7-8b6a-525e48b10aa5.png)
-![icons8-console-48](https://user-images.githubusercontent.com/58959408/175449815-bf63dd03-ff1d-4172-a567-362a628e79ce.png)
-![icons8-virtual-machine-48](https://user-images.githubusercontent.com/58959408/175450094-7bdd9c7d-383a-40e7-bd36-cf60a5ad902e.png)
-![icons8-load-balancer-48](https://user-images.githubusercontent.com/58959408/175453731-7a769ce8-3631-458f-9126-fcef33e30255.png)
-![icons8-add-administrator-48](https://user-images.githubusercontent.com/58959408/175453880-0620b370-00b5-4199-a8b1-b3a131a0d378.png)
-![icons8-c++-48](https://user-images.githubusercontent.com/58959408/175449262-1048c914-973f-4900-8ae8-b83ec5e99dbe.png)
 
 ### ⚪ Ring 00
 - 1️⃣ **Libft (C)** - https://github.com/pasqualerossi/Libft
