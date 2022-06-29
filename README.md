@@ -43,24 +43,13 @@
 ### ⚫ Ring 06
 - 1️⃣ - Ft_Transcendence (NestJS, TypeScript, PostgreSQL & OAuth) - (Link Coming Soon) 
 
-### 🪐 Total Count
-- 15 Projects and 1 Mini-Piscine
-
 ## 42 School Exams
-
-You can fail the exams so many times and continue retrying them, until you pass.
 
 - 1️⃣ Exam Rank 02 - https://github.com/pasqualerossi/42-School-Exam-Rank-02
 - 2️⃣ Exam Rank 03 - https://github.com/pasqualerossi/42-School-Exam-Rank-03 
 - 3️⃣ Exam Rank 04 - https://github.com/pasqualerossi/42-School-Exam-Rank-04
 - 4️⃣ Exam Rank 05 - (Link Coming Soon) 
 - 5️⃣ Exam Rank 06 - (Link Coming Soon) 
-
-### 🪐 Total Count
-- 5 Exams
-
-## Tips for New Students
-Coming Soon (C Visualiser, Evaluations, Resources etc.)
 
 ## 🕵️ 42 Project Resources
 
@@ -81,3 +70,6 @@ Coming Soon (C Visualiser, Evaluations, Resources etc.)
 - 42 Vogship Tool - https://github.com/pasqualerossi/42vogship-1
 - 42 Computer Storage Cleaner - https://github.com/pasqualerossi/Cleaner_42
 - Custom Vimrc for your Vim - https://github.com/pasqualerossi/vimrc
+
+## Tips for New Students
+Coming Soon (C Visualiser, Evaluations, Resources etc.)
