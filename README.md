@@ -46,9 +46,13 @@
 ## 42 School Exams
 
 1️⃣ Exam Rank 02 - https://github.com/pasqualerossi/42-School-Exam-Rank-02
+
 2️⃣ Exam Rank 03 - https://github.com/pasqualerossi/42-School-Exam-Rank-03 
+
 3️⃣ Exam Rank 04 - https://github.com/pasqualerossi/42-School-Exam-Rank-04
+
 4️⃣ Exam Rank 05 - (Link Coming Soon) 
+
 5️⃣ Exam Rank 06 - (Link Coming Soon) 
 
 ## 🕵️ 42 Project Resources
