@@ -57,6 +57,9 @@
 
 5️⃣ Exam Rank 06 - (Link Coming Soon) 
 
+## :house: 42 Off Campus Setup
+- Off-Campus Student Setup Guide - https://github.com/pasqualerossi/42-Off-Campus-Student-Set-Up
+
 ## 🕵️ 42 Project Resources
 
 - Code Visualiser Tool - https://pythontutor.com/c.html#mode=edit
