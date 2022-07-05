@@ -32,7 +32,9 @@
   * Understand How to Configure Networks 
 
 3️⃣ Minishell (C) - https://github.com/pasqualerossi/Minishell
+
 4️⃣ **Cub3D** over MiniRT (C) - https://github.com/pasqualerossi/Cub3D
+
 5️⃣ C++ Modules 00-08 (C++) - https://github.com/pasqualerossi/C-Plus-Plus
 
 ### 🟤 Ring 05
