@@ -70,6 +70,3 @@
 - 42 Vogship Tool - https://github.com/pasqualerossi/42vogship-1
 - 42 Computer Storage Cleaner - https://github.com/pasqualerossi/Cleaner_42
 - Custom Vimrc for your Vim - https://github.com/pasqualerossi/vimrc
-
-## Tips for New Students
-Coming Soon (C Visualiser, Evaluations, Resources etc.)
