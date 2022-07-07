@@ -1,10 +1,10 @@
-## 42 School Projects
+# 42 School Projects and Exams
 
-### ⚪ Ring 00
+## ⚪ Ring 00
 1️⃣ **Libft (C)** - https://github.com/pasqualerossi/Libft
   * Creating a Library with a Header and Makefile
 
-### 🟠 Ring 01
+## 🟠 Ring 01
 1️⃣ **Born2BeRoot (Shell & Virtual Machine)** - https://github.com/pasqualerossi/Born2BeRoot-Guide
   * Creating Your Own Virtual Machine with Debian
 
@@ -14,7 +14,7 @@
 3️⃣ **Get_Next_Line (C)** - https://github.com/pasqualerossi/Get_Next_Line 
   * Read a line with File Descriptor, Buffer Size and Static Variables
 
-### 🔵 Ring 02
+## 🔵 Ring 02
 1️⃣ **MiniTalk** over PipeX **(C)** - https://github.com/pasqualerossi/MiniTalk
   * Sending and Reciving a Message with Signals and Bit Shifting
 
@@ -24,7 +24,7 @@
 3️⃣ **Push_Swap (C)** - https://github.com/pasqualerossi/Push_Swap
   * Sort Random Numbers from Lowest to Highest with an Algorithm
 
-### 🟡 🟢 Ring 03 and Ring 04
+## 🟡 🟢 Ring 03 and Ring 04
 1️⃣ Philosophers (C) - https://github.com/pasqualerossi/Philosophers
   * Ensure all Philosophers Eat, Think and Sleep with Multithreading
 
@@ -37,15 +37,17 @@
 
 5️⃣ C++ Modules 00-08 (C++) - https://github.com/pasqualerossi/C-Plus-Plus
 
-### 🟤 Ring 05
+## 🟤 Ring 05
 1️⃣ - Inception (System Admin) - (Link Coming Soon) 
+
 2️⃣ - Ft_Containers (C++) - (Link Coming Soon) 
+
 3️⃣ - **Ft_irc** over Webserv (C++) - (Link Coming Soon) 
 
-### ⚫ Ring 06
+## ⚫ Ring 06
 1️⃣ - Ft_Transcendence (NestJS, TypeScript, PostgreSQL & OAuth) - (Link Coming Soon) 
 
-## 42 School Exams
+## Exams
 
 1️⃣ Exam Rank 02 - https://github.com/pasqualerossi/42-School-Exam-Rank-02
 
@@ -56,6 +58,10 @@
 4️⃣ Exam Rank 05 - (Link Coming Soon) 
 
 5️⃣ Exam Rank 06 - (Link Coming Soon) 
+
+<br>
+
+# 42 School Student Resources
 
 ## :house: 42 Off Campus Setup
 - Off-Campus Student Setup Guide - https://github.com/pasqualerossi/42-Off-Campus-Student-Set-Up
