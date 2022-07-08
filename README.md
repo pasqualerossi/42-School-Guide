@@ -1,10 +1,18 @@
+<div align="center">
+
 # 42 School Projects and Exams
 
+### The numbers below are a recommendation on which project to start next in each ring :one:
+
+</div>
+
 ## ⚪ Ring 00
+
 1️⃣ **Libft (C)** - https://github.com/pasqualerossi/Libft
   * Creating a Library with a Header and Makefile
 
 ## 🟠 Ring 01
+
 1️⃣ **Born2BeRoot (Shell & Virtual Machine)** - https://github.com/pasqualerossi/Born2BeRoot-Guide
   * Creating Your Own Virtual Machine with Debian
 
@@ -47,7 +55,13 @@
 ## ⚫ Ring 06
 1️⃣ - Ft_Transcendence (NestJS, TypeScript, PostgreSQL & OAuth) - (Link Coming Soon) 
 
-## Exams
+<br>
+
+<div align="center">
+
+# 42 School Exams
+
+</div>
 
 1️⃣ Exam Rank 02 - https://github.com/pasqualerossi/42-School-Exam-Rank-02
 
@@ -61,7 +75,11 @@
 
 <br>
 
+<div align="center">
+
 # 42 School Student Resources
+
+</div>
 
 ## :house: 42 Off Campus Setup
 - Off-Campus Student Setup Guide - https://github.com/pasqualerossi/42-Off-Campus-Student-Set-Up
