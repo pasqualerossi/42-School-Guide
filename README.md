@@ -2,7 +2,7 @@
 
 # 42 School Projects and Exams
 
-### The numbers below are a recommendation on which project to start next in each ring :one:
+#### :arrow_down: The numbers below in each ring are a recommendation on which project to start with next  :one:
 
 </div>
 
