@@ -39,11 +39,11 @@ The numbers below are a recommendation on which project to start with next in ea
 2️⃣ NetPractice (Networking) - https://github.com/pasqualerossi/NetPractice
   * Understand How to Configure Networks 
 
-3️⃣ Minishell (C) - https://github.com/pasqualerossi/Minishell
+3️⃣ C++ Modules 00-08 (C++) - https://github.com/pasqualerossi/C-Plus-Plus
 
-4️⃣ **Cub3D** over MiniRT (C) - https://github.com/pasqualerossi/Cub3D
+4️⃣ Minishell (C) - https://github.com/pasqualerossi/Minishell
 
-5️⃣ C++ Modules 00-08 (C++) - https://github.com/pasqualerossi/C-Plus-Plus
+5️⃣ **Cub3D** over MiniRT (C) - https://github.com/pasqualerossi/Cub3D
 
 ## 🟤 Ring 05
 1️⃣ - Inception (System Admin) - (Link Coming Soon) 
