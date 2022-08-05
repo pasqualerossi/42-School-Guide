@@ -95,7 +95,7 @@ The numbers below are a recommendation on which project to start with next in ea
 
 - 42 Push_Swap Tester - https://github.com/pasqualerossi/42_Push_Swap_Tester
 - 42 Cursus Tester - https://github.com/pasqualerossi/42-Cursus-Tester
-- Francinette Tester - https://github.com/pasqualerossi/42-Francinette-Tester
+- Francinette Tester - https://github.com/xicodomingues/francinette
 
 ## 💻 42 On-Campus Computer Resources
 
