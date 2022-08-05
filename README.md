@@ -90,19 +90,16 @@ The numbers below are a recommendation on which project to start with next in ea
 ## 🕵️ 42 Project Resources
 
 - Code Visualiser Tool - https://pythontutor.com/c.html#mode=edit
+- 42 Evaluations - https://github.com/pasqualerossi/42-Evaluations
 
 ## 🖱️ 42 Project Testers
+
+- Libft, Get_Next_Line, Ft_Printf, So_Long, Push_Swap, Philosophers, All C++ Modules, Cub3D and Ft_Containers Combined Tester - https://github.com/JCluzet/42_GradeMe 
 
 - 42 Push_Swap Tester - https://github.com/pasqualerossi/42_Push_Swap_Tester
 - 42 Cursus Tester - https://github.com/pasqualerossi/42-Cursus-Tester
 - Francinette Tester - https://github.com/pasqualerossi/42-Francinette-Tester
 
-## 👮 42 Project Evaluations
-
-- 42 Evaluator Marking Guide - https://github.com/pasqualerossi/42-Evaluations
-
 ## 💻 42 On-Campus Computer Resources
 
-- 42 Vogship Tool - https://github.com/pasqualerossi/42vogship-1
 - 42 Computer Storage Cleaner - https://github.com/pasqualerossi/Cleaner_42
-- Custom Vimrc for your Vim - https://github.com/pasqualerossi/vimrc
