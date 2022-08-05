@@ -81,9 +81,6 @@ The numbers below are a recommendation on which project to start with next in ea
 
 </div>
 
-## :computer: 42 Cheat Sheet
-- All of the Information about 42 - https://github.com/pasqualerossi/42_Cheat_Sheet
-
 ## :house: 42 Off Campus Setup
 - Off-Campus Student Setup Guide - https://github.com/pasqualerossi/42-Off-Campus-Student-Set-Up
 
