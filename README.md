@@ -23,6 +23,7 @@ The numbers below are a recommendation on which project to start with next in ea
   * Read a line with File Descriptor, Buffer Size and Static Variables
 
 ## 🔵 Ring 02
+
 1️⃣ **MiniTalk** over PipeX **(C)** - https://github.com/pasqualerossi/MiniTalk
   * Sending and Reciving a Message with Signals and Bit Shifting
 
@@ -32,20 +33,24 @@ The numbers below are a recommendation on which project to start with next in ea
 3️⃣ **Push_Swap (C)** - https://github.com/pasqualerossi/Push_Swap
   * Sort Random Numbers from Lowest to Highest with an Algorithm
 
-## 🟡 🟢 Ring 03 and Ring 04
+## 🟡 Ring 03
+
 1️⃣ Philosophers (C) - https://github.com/pasqualerossi/Philosophers
   * Ensure all Philosophers Eat, Think and Sleep with Multithreading
 
-2️⃣ NetPractice (Networking) - https://github.com/pasqualerossi/NetPractice
+2️⃣ Minishell (C) - https://github.com/pasqualerossi/Minishell
+
+## 🟢 Ring 04
+
+1️⃣ NetPractice (Networking) - https://github.com/pasqualerossi/NetPractice
   * Understand How to Configure Networks 
 
-3️⃣ C++ Modules 00-08 (C++) - https://github.com/pasqualerossi/C-Plus-Plus
+2️⃣ C++ Modules 00-08 (C++) - https://github.com/pasqualerossi/C-Plus-Plus
 
-4️⃣ Minishell (C) - https://github.com/pasqualerossi/Minishell
-
-5️⃣ **Cub3D** over MiniRT (C) - https://github.com/pasqualerossi/Cub3D
+3️⃣ **Cub3D** over MiniRT (C) - https://github.com/pasqualerossi/Cub3D
 
 ## 🟤 Ring 05
+
 1️⃣ - Inception (System Admin) - (Link Coming Soon) 
 
 2️⃣ - Ft_Containers (C++) - (Link Coming Soon) 
