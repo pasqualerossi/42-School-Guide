@@ -9,37 +9,30 @@ The numbers below are a recommendation on which project to start with next in ea
 ## ⚪ Ring 00
 
 1️⃣ **Libft (C)** - https://github.com/pasqualerossi/Libft
-  * Creating a Library with a Header and Makefile
 
 ## 🟠 Ring 01
 
 1️⃣ **Born2BeRoot (Shell & Virtual Machine)** - https://github.com/pasqualerossi/Born2BeRoot-Guide
-  * Creating Your Own Virtual Machine with Debian
 
 <br>
 
 2️⃣ **Ft_Printf (C)** - https://github.com/pasqualerossi/Printf/tree/main/shorter%20version%20of%20printf
-  * Recreating Printf with Variadic Functions
 
 <br>
 
 3️⃣ **Get_Next_Line (C)** - https://github.com/pasqualerossi/Get_Next_Line 
-  * Read a line with File Descriptor, Buffer Size and Static Variables
 
 ## 🔵 Ring 02
 
 1️⃣ **MiniTalk** over PipeX **(C)** - https://github.com/pasqualerossi/MiniTalk
-  * Sending and Reciving a Message with Signals and Bit Shifting
 
 <br>
 
-2️⃣ **So_Long** over Fract-ol and FdF **(C)** - https://github.com/pasqualerossi/So_Long
-  * Creating a 2D Game with the MiniLibx Graphics Library
+2️⃣ **So_Long** **(C)** - https://github.com/pasqualerossi/So_Long
 
 <br>
 
 3️⃣ **Push_Swap (C)** - https://github.com/pasqualerossi/Push_Swap
-  * Sort Random Numbers from Lowest to Highest with an Algorithm
 
 <br>
 
@@ -47,12 +40,11 @@ The numbers below are a recommendation on which project to start with next in ea
 
 ## 🟡 Ring 03
 
-1️⃣ Philosophers (C) - https://github.com/pasqualerossi/Philosophers
-  * Ensure all Philosophers Eat, Think and Sleep with Multithreading
+1️⃣ **Philosophers (C)** - https://github.com/pasqualerossi/Philosophers
 
 <br>
 
-2️⃣ Minishell (C) - https://github.com/pasqualerossi/Minishell
+2️⃣ **Minishell (C)** - https://github.com/pasqualerossi/Minishell
 
 <br>
 
@@ -60,16 +52,15 @@ The numbers below are a recommendation on which project to start with next in ea
 
 ## 🟢 Ring 04
 
-1️⃣ NetPractice (Networking) - https://github.com/pasqualerossi/NetPractice
-  * Understand How to Configure Networks 
+1️⃣ *NetPractice (Networking)** - https://github.com/pasqualerossi/NetPractice
 
 <br>
 
-2️⃣ C++ Modules 00-08 (C++) - https://github.com/pasqualerossi/C-Plus-Plus
+2️⃣ **C++ Modules 00-08 (C++)** - https://github.com/pasqualerossi/C-Plus-Plus
 
 <br>
 
-3️⃣ **Cub3D** over MiniRT (C) - https://github.com/pasqualerossi/Cub3D
+3️⃣ **Cub3D (C)** - https://github.com/pasqualerossi/Cub3D
 
 <br>
 
