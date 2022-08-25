@@ -80,7 +80,7 @@ The numbers below are a recommendation on which project to start with next in ea
 
 <br>
 
-🖥️ Exam Rank 05 - (Link Coming Soon) 
+🖥️ Exam Rank 05 - https://github.com/pasqualerossi/42-School-Exam-Rank-05
 
 ## ⚫ Ring 06
 1️⃣ Ft_Transcendence (NestJS, TypeScript, PostgreSQL & OAuth) - (Link Coming Soon) 
