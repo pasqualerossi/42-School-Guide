@@ -87,7 +87,7 @@ The numbers below are a recommendation on which project to start with next in ea
 
 <br>
 
-🖥️ Exam Rank 06 - (Link Coming Soon) 
+🖥️ Exam Rank 06 - https://github.com/pasqualerossi/42-School-Exam-Rank-06
 
 <br>
 
