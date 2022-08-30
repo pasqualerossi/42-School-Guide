@@ -115,4 +115,5 @@ The numbers below are a recommendation on which project to start with next in ea
 
 ## 💻 42 On-Campus Computer Resources
 
+- 42 Project Templates - https://github.com/pasqualerossi/42-Projects-Template
 - 42 Computer Storage Cleaner - https://github.com/pasqualerossi/Cleaner_42
