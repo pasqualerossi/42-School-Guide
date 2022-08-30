@@ -111,3 +111,5 @@ The numbers below are a recommendation on which project to start with next in ea
 - **5 Exams**
   - 4 in C 
   - 1 in C++
+
+Total of 21 Assessments - Half of 42 :four::two:
