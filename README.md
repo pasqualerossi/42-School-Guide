@@ -107,8 +107,6 @@ The numbers below are a recommendation on which project to start with next in ea
 
 ## 🖱️ 42 Project Testers
 
-- Libft, Get_Next_Line, Ft_Printf, So_Long, Push_Swap, Philosophers, All C++ Modules, Cub3D and Ft_Containers Combined Tester - https://github.com/JCluzet/42_GradeMe 
-
 - 42 Push_Swap Tester - https://github.com/pasqualerossi/42_Push_Swap_Tester
 - 42 Cursus Tester - https://github.com/pasqualerossi/42-Cursus-Tester
 - Francinette Tester - https://github.com/xicodomingues/francinette
