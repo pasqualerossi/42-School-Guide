@@ -52,7 +52,7 @@ The numbers below are a recommendation on which project to start with next in ea
 
 ## 🟢 Ring 04
 
-1️⃣ *NetPractice (Networking)** - https://github.com/pasqualerossi/NetPractice
+1️⃣ **NetPractice (Networking)** - https://github.com/pasqualerossi/NetPractice
 
 <br>
 
