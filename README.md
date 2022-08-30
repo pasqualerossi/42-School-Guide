@@ -24,7 +24,7 @@ The numbers below are a recommendation on which project to start with next in ea
 
 ## 🔵 Ring 02
 
-1️⃣ **MiniTalk** over PipeX **(C)** - https://github.com/pasqualerossi/MiniTalk
+1️⃣ **MiniTalk (C)** - https://github.com/pasqualerossi/MiniTalk
 
 <br>
 
