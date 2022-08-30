@@ -24,7 +24,7 @@ The numbers below are a recommendation on which project to start with next in ea
 
 ## 🔵 Ring 02
 
-1️⃣ **MiniTalk (C)** - https://github.com/pasqualerossi/MiniTalk
+1️⃣ **MiniTalk** over PipeX **(C)** - https://github.com/pasqualerossi/MiniTalk
 
 <br>
 
@@ -68,7 +68,7 @@ The numbers below are a recommendation on which project to start with next in ea
 
 ## 🟤 Ring 05
 
-1️⃣ Inception (System Admin) - (Link Coming Soon) 
+1️⃣ Inception (Docker) - (Link Coming Soon) 
 
 <br>
 
@@ -89,6 +89,23 @@ The numbers below are a recommendation on which project to start with next in ea
 
 🖥️ Exam Rank 06 - https://github.com/pasqualerossi/42-School-Exam-Rank-06
 
-<br>
 
-## :balloon: END OF THE INNER CIRCLE :balloon:
+### :balloon: END OF THE INNER CIRCLE :balloon:
+
+<div align="center">
+
+## :one: STATS
+
+</div>
+
+- **15 Projects** 
+  - 9 in C
+  - 2 in C++
+  - 1 in Virtual Machine
+  - 1 in Networking
+  - 1 in Docker
+  - 1 in Web Development
+- **1 Mini-Piscine (C++)**
+- **5 Exams**
+  - 4 in C 
+  - 1 in C++
