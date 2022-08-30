@@ -107,7 +107,7 @@ The numbers below are a recommendation on which project to start with next in ea
   - 1 in Web Development
   
 - **1 Mini-Piscine**
-  - in C++
+  - In C++
 
 - **5 Exams**
   - 4 in C 
