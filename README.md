@@ -16,7 +16,7 @@ The numbers below are a recommendation on which project to start with next in ea
 
 <br>
 
-2️⃣ **Ft_Printf (C)** - https://github.com/pasqualerossi/Printf/tree/main/shorter%20version%20of%20printf
+2️⃣ **Ft_Printf (C)** - https://github.com/pasqualerossi/Printf
 
 <br>
 
