@@ -8,11 +8,19 @@ The numbers below are a recommendation on which project to start with next in ea
 
 </div>
 
+<div align="center">
+
 ## ⚪ Ring 00
+
+</div>
 
 1️⃣ **Libft (C)** - https://github.com/pasqualerossi/Libft
 
+<div align="center">
+
 ## 🟠 Ring 01
+
+</div>
 
 1️⃣ **Born2BeRoot (Shell & Virtual Machine)** - https://github.com/pasqualerossi/Born2BeRoot-Guide
 
@@ -24,7 +32,11 @@ The numbers below are a recommendation on which project to start with next in ea
 
 3️⃣ **Get_Next_Line (C)** - https://github.com/pasqualerossi/Get_Next_Line 
 
+<div align="center">
+
 ## 🔵 Ring 02
+
+</div>
 
 1️⃣ **MiniTalk** over PipeX **(C)** - https://github.com/pasqualerossi/MiniTalk
 
@@ -40,7 +52,11 @@ The numbers below are a recommendation on which project to start with next in ea
 
 🖥️ Exam Rank 02 - https://github.com/pasqualerossi/42-School-Exam-Rank-02
 
+<div align="center">
+
 ## 🟡 Ring 03
+
+</div>
 
 1️⃣ **Philosophers (C)** - https://github.com/pasqualerossi/Philosophers
 
@@ -52,7 +68,11 @@ The numbers below are a recommendation on which project to start with next in ea
 
 🖥️ Exam Rank 03 - https://github.com/pasqualerossi/42-School-Exam-Rank-03 
 
+<div align="center">
+
 ## 🟢 Ring 04
+
+</div>
 
 1️⃣ **NetPractice (Networking)** - https://github.com/pasqualerossi/NetPractice
 
@@ -68,7 +88,11 @@ The numbers below are a recommendation on which project to start with next in ea
 
 🖥️ Exam Rank 04 - https://github.com/pasqualerossi/42-School-Exam-Rank-04
 
+<div align="center">
+
 ## 🟤 Ring 05
+
+</div>
 
 1️⃣ Inception (Docker) - (Link Coming Soon) 
 
@@ -84,7 +108,12 @@ The numbers below are a recommendation on which project to start with next in ea
 
 🖥️ Exam Rank 05 - https://github.com/pasqualerossi/42-School-Exam-Rank-05
 
+<div align="center">
+
 ## ⚫ Ring 06
+
+</div>
+
 1️⃣ Ft_Transcendence (NestJS, TypeScript, PostgreSQL & OAuth) - (Link Coming Soon) 
 
 <br>
