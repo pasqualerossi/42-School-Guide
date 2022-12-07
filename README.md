@@ -120,17 +120,21 @@ The numbers below are a recommendation on which project to start with next in ea
 
 🖥️ Exam Rank 06 - https://github.com/pasqualerossi/42-School-Exam-Rank-06
 
+<div align="center">
+
+<br>
 
 ### :balloon: END OF THE INNER CIRCLE :balloon:
 
-<div align="center">
+<br>
 
 ## :one: STATS
-
 
 21 Assessments (which is half of 42)
 
 </div>
+
+<br>
 
 - **15 Projects** 
   - 9 in C
