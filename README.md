@@ -94,15 +94,15 @@ The numbers below are a recommendation on which project to start with next in ea
 
 </div>
 
-1️⃣ Inception (Docker) - (Link Coming Soon) 
+1️⃣ **Inception (Docker)** - (Link Coming Soon) 
 
 <br>
 
-2️⃣ Ft_Containers (C++) - (Link Coming Soon) 
+2️⃣ **Ft_Containers (C++)** - (Link Coming Soon) 
 
 <br>
 
-3️⃣ **Ft_irc** over Webserv (C++) - (Link Coming Soon) 
+3️⃣ **Ft_irc (C++)** - (Link Coming Soon) 
 
 <br>
 
@@ -114,7 +114,7 @@ The numbers below are a recommendation on which project to start with next in ea
 
 </div>
 
-1️⃣ Ft_Transcendence (NestJS, TypeScript, PostgreSQL & OAuth) - (Link Coming Soon) 
+1️⃣ **Ft_Transcendence (NestJS, TypeScript, PostgreSQL & OAuth)** - (Link Coming Soon) 
 
 <br>
 
