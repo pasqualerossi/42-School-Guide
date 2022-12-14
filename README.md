@@ -102,7 +102,7 @@ The numbers below are a recommendation on which project to start with next in ea
 
 <br>
 
-3️⃣ **Ft_irc (C++)** - https://github.com/pasqualerossi/irc
+3️⃣ **Ft_irc (C++)** - https://github.com/pasqualerossi/IRC
 
 <br>
 
