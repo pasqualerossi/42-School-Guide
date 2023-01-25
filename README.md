@@ -94,15 +94,15 @@ The numbers below are a recommendation on which project to start with next in ea
 
 </div>
 
-1️⃣ **Inception (Docker)** - https://github.com/pasqualerossi/Inception
+1️⃣ **Ft_irc (C++)** - https://github.com/pasqualerossi/IRC
 
 <br>
 
-2️⃣ **Ft_Containers (C++)** - https://github.com/pasqualerossi/Containers
+2️⃣ **Inception (Docker)** - https://github.com/pasqualerossi/Inception
 
 <br>
 
-3️⃣ **Ft_irc (C++)** - https://github.com/pasqualerossi/IRC
+3️⃣ **Ft_Containers (C++)** - https://github.com/pasqualerossi/Containers
 
 <br>
 
