@@ -8,7 +8,8 @@ The numbers below are a recommendation on which project to start with next in ea
 
 </div>
 
-<div align="center">
+
+<br>
 
 ## ⚪ Ring 00
 
@@ -16,7 +17,8 @@ The numbers below are a recommendation on which project to start with next in ea
 
 1️⃣ **Libft (C)** - https://github.com/pasqualerossi/Libft
 
-<div align="center">
+
+<br>
 
 ## 🟠 Ring 01
 
@@ -32,7 +34,8 @@ The numbers below are a recommendation on which project to start with next in ea
 
 3️⃣ **Get_Next_Line (C)** - https://github.com/pasqualerossi/Get_Next_Line 
 
-<div align="center">
+
+<br>
 
 ## 🔵 Ring 02
 
@@ -52,7 +55,8 @@ The numbers below are a recommendation on which project to start with next in ea
 
 🖥️ Exam Rank 02 - https://github.com/pasqualerossi/42-School-Exam-Rank-02
 
-<div align="center">
+
+<br>
 
 ## 🟡 Ring 03
 
@@ -68,7 +72,8 @@ The numbers below are a recommendation on which project to start with next in ea
 
 🖥️ Exam Rank 03 - https://github.com/pasqualerossi/42-School-Exam-Rank-03 
 
-<div align="center">
+
+<br>
 
 ## 🟢 Ring 04
 
@@ -88,7 +93,8 @@ The numbers below are a recommendation on which project to start with next in ea
 
 🖥️ Exam Rank 04 - https://github.com/pasqualerossi/42-School-Exam-Rank-04
 
-<div align="center">
+
+<br>
 
 ## 🟤 Ring 05
 
@@ -108,7 +114,8 @@ The numbers below are a recommendation on which project to start with next in ea
 
 🖥️ Exam Rank 05 - https://github.com/pasqualerossi/42-School-Exam-Rank-05
 
-<div align="center">
+
+<br>
 
 ## ⚫ Ring 06
 
@@ -120,12 +127,12 @@ The numbers below are a recommendation on which project to start with next in ea
 
 🖥️ Exam Rank 06 - https://github.com/pasqualerossi/42-School-Exam-Rank-06
 
-<div align="center">
 
 <br>
 
 ### :balloon: END OF THE INNER CIRCLE :balloon:
 
+<br>
 <br>
 
 ## :one: STATS
