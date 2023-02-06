@@ -141,8 +141,6 @@ The numbers below are a recommendation on which project to start with next in ea
 
 </div>
 
-<br>
-
 - **15 Projects** 
   - 9 in C
   - 2 in C++
