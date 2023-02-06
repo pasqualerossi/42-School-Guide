@@ -137,7 +137,7 @@ The numbers below are a recommendation on which project to start with next in ea
 
 ## :one: Overview
 
-21 Assessments (which is half of 42)
+21 Assessments (which is half of 42).
 
 </div>
 
