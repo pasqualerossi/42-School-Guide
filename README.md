@@ -24,7 +24,7 @@ The numbers below are a recommendation on which project to start with next in ea
 
 </div>
 
-1️⃣ **Born2BeRoot (Shell & Virtual Machine)** - https://github.com/pasqualerossi/Born2BeRoot-Guide
+1️⃣ **Born2BeRoot (Virtual Machine)** - https://github.com/pasqualerossi/Born2BeRoot-Guide
 
 <br>
 
