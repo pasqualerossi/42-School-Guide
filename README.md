@@ -155,3 +155,9 @@ The numbers below are a recommendation on which project to start with next in ea
 - **5 Exams**
   - 4 in C 
   - 1 in C++
+
+- **4 Group Projects**
+  - Minishell
+  - Cub3D/MiniRT
+  - IRC/Web_Serv
+  - Ft_Transcendence
