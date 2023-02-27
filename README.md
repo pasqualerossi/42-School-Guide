@@ -141,7 +141,7 @@ The numbers below are a recommendation on which project to start with next in ea
 
 </div>
 
-- **15 Projects** 
+- **15 Projects Total** 
   - 9 in C
   - 2 in C++
   - 1 in Virtual Machine
@@ -156,8 +156,8 @@ The numbers below are a recommendation on which project to start with next in ea
   - 4 in C 
   - 1 in C++
 
-- **4 Group Projects**
-  - Minishell
-  - Cub3D/MiniRT
-  - IRC/Web_Serv
-  - Ft_Transcendence
+- **4 Projects are Group Projects**
+  - Minishell (2 People Max)
+  - Cub3D/MiniRT (2 People Max)
+  - IRC/Web_Serv (2 To 3 People Max)
+  - Ft_Transcendence (3 To 5 People Max)
