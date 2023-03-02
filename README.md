@@ -15,7 +15,7 @@ The numbers below are a recommendation on which project to start with next in ea
 
 </div>
 
-1️⃣ **Libft (C)** - https://github.com/pasqualerossi/Libft
+1️⃣ **Libft (C - Solo Project)** - https://github.com/pasqualerossi/Libft
 
 
 <br>
@@ -24,15 +24,15 @@ The numbers below are a recommendation on which project to start with next in ea
 
 </div>
 
-1️⃣ **Born2BeRoot (Virtual Machine)** - https://github.com/pasqualerossi/Born2BeRoot-Guide
+1️⃣ **Born2BeRoot (Virtual Machine - Solo Project)** - https://github.com/pasqualerossi/Born2BeRoot-Guide
 
 <br>
 
-2️⃣ **Ft_Printf (C)** - https://github.com/pasqualerossi/Printf
+2️⃣ **Ft_Printf (C - Solo Project)** - https://github.com/pasqualerossi/Printf
 
 <br>
 
-3️⃣ **Get_Next_Line (C)** - https://github.com/pasqualerossi/Get_Next_Line 
+3️⃣ **Get_Next_Line (C - Solo Project)** - https://github.com/pasqualerossi/Get_Next_Line 
 
 
 <br>
@@ -41,15 +41,15 @@ The numbers below are a recommendation on which project to start with next in ea
 
 </div>
 
-1️⃣ **MiniTalk** **(C)** - https://github.com/pasqualerossi/MiniTalk
+1️⃣ **MiniTalk** **(C - Solo Project)** - https://github.com/pasqualerossi/MiniTalk
 
 <br>
 
-2️⃣ **So_Long** **(C)** - https://github.com/pasqualerossi/So_Long
+2️⃣ **So_Long** **(C - Solo Project)** - https://github.com/pasqualerossi/So_Long
 
 <br>
 
-3️⃣ **Push_Swap (C)** - https://github.com/pasqualerossi/Push_Swap
+3️⃣ **Push_Swap (C - Solo Project)** - https://github.com/pasqualerossi/Push_Swap
 
 <br>
 
@@ -62,11 +62,11 @@ The numbers below are a recommendation on which project to start with next in ea
 
 </div>
 
-1️⃣ **Philosophers (C)** - https://github.com/pasqualerossi/Philosophers
+1️⃣ **Philosophers (C - Solo Project)** - https://github.com/pasqualerossi/Philosophers
 
 <br>
 
-2️⃣ **Minishell (C)** - https://github.com/pasqualerossi/Minishell
+2️⃣ **Minishell (C - Group Project)** - https://github.com/pasqualerossi/Minishell
 
 <br>
 
@@ -79,15 +79,15 @@ The numbers below are a recommendation on which project to start with next in ea
 
 </div>
 
-1️⃣ **NetPractice (Networking)** - https://github.com/pasqualerossi/NetPractice
+1️⃣ **NetPractice (Networking - Solo Project)** - https://github.com/pasqualerossi/NetPractice
 
 <br>
 
-2️⃣ **C++ Modules 00-08 (C++)** - https://github.com/pasqualerossi/C-Plus-Plus
+2️⃣ **C++ Modules 00-08 (C++ - Solo Projects)** - https://github.com/pasqualerossi/C-Plus-Plus
 
 <br>
 
-3️⃣ **Cub3D (C)** - https://github.com/pasqualerossi/Cub3D
+3️⃣ **Cub3D (C - Group Project)** - https://github.com/pasqualerossi/Cub3D
 
 <br>
 
@@ -100,15 +100,15 @@ The numbers below are a recommendation on which project to start with next in ea
 
 </div>
 
-1️⃣ **Ft_irc (C++)** - https://github.com/pasqualerossi/IRC
+1️⃣ **Ft_irc (C++ - Group Project)** - https://github.com/pasqualerossi/IRC
 
 <br>
 
-2️⃣ **Inception (Docker)** - https://github.com/pasqualerossi/Inception
+2️⃣ **Inception (Docker - Solo Project)** - https://github.com/pasqualerossi/Inception
 
 <br>
 
-3️⃣ **Ft_Containers (C++)** - https://github.com/pasqualerossi/Containers
+3️⃣ **Ft_Containers (C++ - Solo Project)** - https://github.com/pasqualerossi/Containers
 
 <br>
 
@@ -121,7 +121,7 @@ The numbers below are a recommendation on which project to start with next in ea
 
 </div>
 
-1️⃣ **Ft_Transcendence (NestJS, TypeScript, PostgreSQL & OAuth)** - (Link Coming Soon) 
+1️⃣ **Ft_Transcendence (NestJS, TypeScript, PostgreSQL & OAuth - Group Project)** - (Link Coming Soon) 
 
 <br>
 
