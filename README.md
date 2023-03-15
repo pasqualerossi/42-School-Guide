@@ -121,7 +121,7 @@ The numbers below are a recommendation on which project to start with next in ea
 
 </div>
 
-1️⃣ **Ft_Transcendence (NestJS, TypeScript, PostgreSQL & OAuth - Group Project)** - (Link Coming Soon) 
+1️⃣ **Ft_Transcendence (NestJS, TypeScript, PostgreSQL & OAuth - Group Project)** - https://github.com/pasqualerossi/Transcendence 
 
 <br>
 
