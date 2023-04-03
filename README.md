@@ -2,7 +2,7 @@
 
 # 42 School Projects and Exams
 
-The numbers below are a recommendation on which project to start with next in each ring, starting with :one:
+The numbers below are a recommendation on which project to start with next in each ring.
 
 </div>
 
