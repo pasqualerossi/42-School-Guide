@@ -157,5 +157,5 @@ The numbers below are a recommendation on which project to start with next in ea
 - **4 Projects are Group Projects**
   - Minishell (2 People Max)
   - Cub3D or MiniRT (2 People Max)
-  - IRC or Web_Serv (2 To 3 People Max)
-  - Ft_Transcendence (3 To 5 People Max)
+  - IRC or Web_Serv (2 To 3 People)
+  - Ft_Transcendence (3 To 5 People)
