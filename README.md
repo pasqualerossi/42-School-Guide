@@ -22,7 +22,7 @@ The numbers below are a recommendation on which project to start with next in ea
 
 </div>
 
-1️⃣ **Born2BeRoot (Virtual Machine - Solo Project)** - https://github.com/pasqualerossi/Born2BeRoot-Guide
+1️⃣ **Born2BeRoot (Virtual Machine using Debian - Solo Project)** - https://github.com/pasqualerossi/Born2BeRoot-Guide
 
 <br>
 
