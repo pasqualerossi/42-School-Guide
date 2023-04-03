@@ -75,6 +75,10 @@ The numbers below are a recommendation on which project to start with next in ea
 
 ## 🟢 Ring 04
 
+:warning: ```Note: Ring 04 will be restructed soon.```
+
+<br>
+
 </div>
 
 1️⃣ **NetPractice (Networking - Solo Project)** - https://github.com/pasqualerossi/NetPractice
@@ -82,6 +86,8 @@ The numbers below are a recommendation on which project to start with next in ea
 <br>
 
 2️⃣ **C++ Modules 00-08 (C++ - Solo Projects)** - https://github.com/pasqualerossi/C-Plus-Plus
+
+:white_check_mark: ```Note: C++ 09 will be added soon.```
 
 <br>
 
@@ -96,6 +102,10 @@ The numbers below are a recommendation on which project to start with next in ea
 
 ## 🟤 Ring 05
 
+:warning: ```Note: Ring 05 will be restructed soon.```
+
+<br>
+
 </div>
 
 1️⃣ **Ft_irc (C++ - Group Project)** - https://github.com/pasqualerossi/IRC
@@ -107,6 +117,8 @@ The numbers below are a recommendation on which project to start with next in ea
 <br>
 
 3️⃣ **Ft_Containers (C++ - Solo Project)** - https://github.com/pasqualerossi/Containers
+
+:warning: ```Note: ft_containers will be removed soon.```
 
 <br>
 
