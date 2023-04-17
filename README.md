@@ -174,6 +174,8 @@ The numbers below are a recommendation on which project to start with next in ea
 
 1️⃣ **Ft_Transcendence (NestJS, TypeScript, PostgreSQL & OAuth - Group Project)** - https://github.com/pasqualerossi/Transcendence
 
+:new_moon: ```BlackHole: 50 Days```
+
 <br>
 
 🖥️ Exam Rank 06 - https://github.com/pasqualerossi/42-School-Exam-Rank-06
