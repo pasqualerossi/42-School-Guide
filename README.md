@@ -147,7 +147,7 @@ The numbers below are a recommendation on which project to start with next in ea
 
 :two: **Ft_irc (C++ - Group Project)** - https://github.com/pasqualerossi/IRC
 
-:new_moon: ```BlackHole: 70 Days```
+:new_moon: ```BlackHole: 80 Days```
 
 <br>
 
@@ -169,7 +169,7 @@ The numbers below are a recommendation on which project to start with next in ea
 
 1️⃣ **Ft_Transcendence (NestJS, TypeScript, PostgreSQL & OAuth - Group Project)** - https://github.com/pasqualerossi/Transcendence
 
-:new_moon: ```BlackHole: 50 Days```
+:new_moon: ```BlackHole: 40 Days```
 
 <br>
 
