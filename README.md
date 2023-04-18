@@ -99,6 +99,8 @@ The numbers below are a recommendation on which project to start with next in ea
 
 :new_moon: ```BlackHole: 0 Days```
 
+:alarm_clock: ```Exam Length: 2 to 4 Hours```
+
 
 <br>
 
@@ -125,6 +127,8 @@ The numbers below are a recommendation on which project to start with next in ea
 🖥️ Exam Rank 03 - https://github.com/pasqualerossi/42-School-Exam-Rank-03
 
 :new_moon: ```BlackHole: 0 Days```
+
+:alarm_clock: ```Exam Length: 2 to 4 Hours```
 
 
 <br>
@@ -161,6 +165,8 @@ The numbers below are a recommendation on which project to start with next in ea
 🖥️ Exam Rank 04 - https://github.com/pasqualerossi/42-School-Exam-Rank-04
 
 :new_moon: ```BlackHole: 0 Days```
+
+:alarm_clock: ```Exam Length: 2 to 4 Hours```
 
 
 <br>
@@ -205,6 +211,8 @@ The numbers below are a recommendation on which project to start with next in ea
 
 :new_moon: ```BlackHole: 0 Days```
 
+:alarm_clock: ```Exam Length: 2 to 4 Hours```
+
 <br>
 
 ## ⚫ Common Core Rank 06
@@ -224,6 +232,8 @@ The numbers below are a recommendation on which project to start with next in ea
 🖥️ Exam Rank 06 - https://github.com/pasqualerossi/42-School-Exam-Rank-06
 
 :new_moon: ```BlackHole: 0 Days```
+
+:alarm_clock: ```Exam Length: 2 to 4 Hours```
 
 <br>
 
