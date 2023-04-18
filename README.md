@@ -12,13 +12,17 @@ The numbers below are a recommendation on which project to start with next in ea
 - The Blackhole days below each project are days given once the project is completed. 
 - No Blackhole days are given for exams.
 
+## :white_check_mark: Evaluation
+
+- To be evaluated on projects in Common Core Rank 05 and Common Core Rank 06, the evaluator requires to have completed a minimum number of projects and exams.
+
 <br>
 
 :new_moon: ```You Start The School With 70 BlackHole Days.```
 
 <br>
 
-## ⚪ Ring 00
+## ⚪ Common Core Rank 00
 
 </div>
 
@@ -28,7 +32,7 @@ The numbers below are a recommendation on which project to start with next in ea
 
 <br>
 
-## 🟠 Ring 01
+## 🟠 Common Core Rank 01
 
 </div>
 
@@ -51,7 +55,7 @@ The numbers below are a recommendation on which project to start with next in ea
 
 <br>
 
-## 🔵 Ring 02
+## 🔵 Common Core Rank 02
 
 </div>
 
@@ -80,7 +84,7 @@ The numbers below are a recommendation on which project to start with next in ea
 
 <br>
 
-## 🟡 Ring 03
+## 🟡 Common Core Rank 03
 
 </div>
 
@@ -103,7 +107,7 @@ The numbers below are a recommendation on which project to start with next in ea
 
 <br>
 
-## 🟢 Ring 04
+## 🟢 Common Core Rank 04
 
 
 </div>
@@ -133,7 +137,7 @@ The numbers below are a recommendation on which project to start with next in ea
 
 <br>
 
-## 🟤 Ring 05
+## 🟤 Common Core Rank 05
 
 <br>
 
@@ -147,11 +151,15 @@ The numbers below are a recommendation on which project to start with next in ea
 
 :two: **Ft_irc (C++ - Group Project)** - https://github.com/pasqualerossi/IRC
 
+:white_check_mark: ```Evaluator: Common Core Rank 02```
+
 :new_moon: ```BlackHole: 80 Days```
 
 <br>
 
 :three: **Inception (Docker - Solo Project)** - https://github.com/pasqualerossi/Inception
+
+:white_check_mark: ```Evaluator: Common Core Rank 02```
 
 :new_moon: ```BlackHole: 30 Days```
 
@@ -163,11 +171,13 @@ The numbers below are a recommendation on which project to start with next in ea
 
 <br>
 
-## ⚫ Ring 06
+## ⚫ Common Core Rank 06
 
 </div>
 
 1️⃣ **Ft_Transcendence (NestJS, TypeScript, PostgreSQL & OAuth - Group Project)** - https://github.com/pasqualerossi/Transcendence
+
+:white_check_mark: ```Evaluator: Common Core Rank 03```
 
 :new_moon: ```BlackHole: 40 Days```
 
