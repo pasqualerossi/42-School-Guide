@@ -15,6 +15,10 @@ The numbers below are a recommendation on which project to start with next in ea
 ## :white_check_mark: Evaluation
 
 - To be evaluated on projects in Common Core Rank 05 and Common Core Rank 06, the evaluator requires to have completed a minimum number of projects and exams.
+- Use these tools to find people on your campus who can evaluate you:
+
+  - [Peer Finder By Current Project](https://find-peers.codam.nl/)
+  - [Peer Finder By Project Completion](https://42evaluators.com/peerfinder/)
 
 <br>
 
