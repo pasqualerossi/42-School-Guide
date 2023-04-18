@@ -22,7 +22,7 @@ The numbers below are a recommendation on which project to start with next in ea
 
 <br>
 
-:new_moon: ```You Start The School With 70 BlackHole Days.```
+:new_moon: ```You Start The School With 77 BlackHole Days.```
 
 <br>
 
