@@ -149,6 +149,8 @@ The numbers below are a recommendation on which project to start with next in ea
 
 :one: **C++ Modules 05-09 (C++ - Solo Projects)** - https://github.com/pasqualerossi/C-Plus-Plus
 
+:white_check_mark: ```Evaluator: Common Core Rank 01```
+
 :new_moon: ```BlackHole: Unknown Yet```
 
 <br>
