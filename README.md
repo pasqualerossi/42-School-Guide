@@ -34,6 +34,8 @@ The numbers below are a recommendation on which project to start with next in ea
 
 :new_moon: ```BlackHole: 60 Days```
 
+:clock2: ```Evaluation Length: 15 Mins```
+
 <br>
 
 ## 🟠 Common Core Rank 01
@@ -44,17 +46,23 @@ The numbers below are a recommendation on which project to start with next in ea
 
 :new_moon: ```BlackHole: 14 Days```
 
+:clock2: ```Evaluation Length: 1 Hour```
+
 <br>
 
 2️⃣ **Ft_Printf (C - Solo Project)** - https://github.com/pasqualerossi/Printf
 
 :new_moon: ```BlackHole: 20 Days```
 
+:clock2: ```Evaluation Length: 15 Mins```
+
 <br>
 
 3️⃣ **Get_Next_Line (C - Solo Project)** - https://github.com/pasqualerossi/Get_Next_Line 
 
 :new_moon: ```BlackHole: 20 Days```
+
+:clock2: ```Evaluation Length: 15 Mins```
 
 
 <br>
@@ -67,17 +75,23 @@ The numbers below are a recommendation on which project to start with next in ea
 
 :new_moon: ```BlackHole: 20 Days```
 
+:clock2: ```Evaluation Length: 15 Mins```
+
 <br>
 
 2️⃣ **So_Long** **(C - Solo Project)** - https://github.com/pasqualerossi/So_Long
 
 :new_moon: ```BlackHole: 20 Days```
 
+:clock2: ```Evaluation Length: 15 Mins```
+
 <br>
 
 3️⃣ **Push_Swap (C - Solo Project)** - https://github.com/pasqualerossi/Push_Swap
 
 :new_moon: ```BlackHole: 20 Days```
+
+:clock2: ```Evaluation Length: 15 Mins```
 
 <br>
 
@@ -96,11 +110,15 @@ The numbers below are a recommendation on which project to start with next in ea
 
 :new_moon: ```BlackHole: 40 Days```
 
+:clock2: ```Evaluation Length: 15 Mins```
+
 <br>
 
 2️⃣ **Minishell (C - Group Project)** - https://github.com/pasqualerossi/Minishell
 
 :new_moon: ```BlackHole: 20 Days```
+
+:clock2: ```Evaluation Length: 15 Mins```
 
 <br>
 
@@ -120,17 +138,23 @@ The numbers below are a recommendation on which project to start with next in ea
 
 :new_moon: ```BlackHole: 30 Days```
 
+:clock2: ```Evaluation Length: 15 Mins```
+
 <br>
 
 2️⃣ **Cub3D (C - Group Project)** - https://github.com/pasqualerossi/Cub3D
 
 :new_moon: ```BlackHole: 30 Days```
 
+:clock2: ```Evaluation Length: 15 Mins```
+
 <br>
 
 3️⃣ **C++ Modules 00-04 (C++ - Solo Projects)** - https://github.com/pasqualerossi/C-Plus-Plus
 
 :new_moon: ```BlackHole: Unknown Yet```
+
+:clock2: ```Evaluation Length: 15 Mins each Module```
 
 <br>
 
@@ -151,6 +175,8 @@ The numbers below are a recommendation on which project to start with next in ea
 
 :white_check_mark: ```Evaluator: Common Core Rank 01```
 
+:clock2: ```Evaluation Length: 15 Mins each Module```
+
 :new_moon: ```BlackHole: Unknown Yet```
 
 <br>
@@ -159,6 +185,8 @@ The numbers below are a recommendation on which project to start with next in ea
 
 :white_check_mark: ```Evaluator: Common Core Rank 02```
 
+:clock2: ```Evaluation Length: 1 Hour```
+
 :new_moon: ```BlackHole: 80 Days```
 
 <br>
@@ -166,6 +194,8 @@ The numbers below are a recommendation on which project to start with next in ea
 :three: **Inception (Docker - Solo Project)** - https://github.com/pasqualerossi/Inception
 
 :white_check_mark: ```Evaluator: Common Core Rank 02```
+
+:clock2: ```Evaluation Length: 30 Mins```
 
 :new_moon: ```BlackHole: 30 Days```
 
@@ -184,6 +214,8 @@ The numbers below are a recommendation on which project to start with next in ea
 1️⃣ **Ft_Transcendence (NestJS, TypeScript, PostgreSQL & OAuth - Group Project)** - https://github.com/pasqualerossi/Transcendence
 
 :white_check_mark: ```Evaluator: Common Core Rank 03```
+
+:clock2: ```Evaluation Length: 1 Hour```
 
 :new_moon: ```BlackHole: 40 Days```
 
