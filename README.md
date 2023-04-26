@@ -2,9 +2,13 @@
 
 # 42 School Projects and Exams
 
-The numbers below are a recommendation on which project to start with next in each ring.
-
 </div>
+
+<br>
+
+## :one: Which Project
+
+- The numbers next to the project name below are a recommendation on which project to start with in each ring below.
 
 ## :new_moon: BlackHole
 
