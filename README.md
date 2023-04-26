@@ -31,9 +31,7 @@ The numbers below are a recommendation on which project to start with next in ea
 
 1️⃣ **Libft (C - Solo Project)** - https://github.com/pasqualerossi/Libft
 
-:new_moon: ```BlackHole: 60 Days```
-
-:clock2: ```Evaluation Length: 15 Mins```
+:new_moon: ```BlackHole: 60 Days``` :clock2: ```Evaluation Length: 15 Mins```
 
 <br>
 
@@ -43,25 +41,19 @@ The numbers below are a recommendation on which project to start with next in ea
 
 1️⃣ **Born2BeRoot (Virtual Machine using Debian - Solo Project)** - https://github.com/pasqualerossi/Born2BeRoot-Guide
 
-:new_moon: ```BlackHole: 14 Days```
-
-:clock2: ```Evaluation Length: 1 Hour```
+:new_moon: ```BlackHole: 14 Days``` :clock2: ```Evaluation Length: 1 Hour```
 
 <br>
 
 2️⃣ **Ft_Printf (C - Solo Project)** - https://github.com/pasqualerossi/Printf
 
-:new_moon: ```BlackHole: 20 Days```
-
-:clock2: ```Evaluation Length: 15 Mins```
+:new_moon: ```BlackHole: 20 Days``` :clock2: ```Evaluation Length: 15 Mins```
 
 <br>
 
 3️⃣ **Get_Next_Line (C - Solo Project)** - https://github.com/pasqualerossi/Get_Next_Line 
 
-:new_moon: ```BlackHole: 20 Days```
-
-:clock2: ```Evaluation Length: 15 Mins```
+:new_moon: ```BlackHole: 20 Days``` :clock2: ```Evaluation Length: 15 Mins```
 
 
 <br>
@@ -72,33 +64,25 @@ The numbers below are a recommendation on which project to start with next in ea
 
 1️⃣ **MiniTalk** **(C - Solo Project)** - https://github.com/pasqualerossi/MiniTalk
 
-:new_moon: ```BlackHole: 20 Days```
-
-:clock2: ```Evaluation Length: 15 Mins```
+:new_moon: ```BlackHole: 20 Days``` :clock2: ```Evaluation Length: 15 Mins```
 
 <br>
 
 2️⃣ **So_Long** **(C - Solo Project)** - https://github.com/pasqualerossi/So_Long
 
-:new_moon: ```BlackHole: 20 Days```
-
-:clock2: ```Evaluation Length: 15 Mins```
+:new_moon: ```BlackHole: 20 Days``` :clock2: ```Evaluation Length: 15 Mins```
 
 <br>
 
 3️⃣ **Push_Swap (C - Solo Project)** - https://github.com/pasqualerossi/Push_Swap
 
-:new_moon: ```BlackHole: 20 Days```
-
-:clock2: ```Evaluation Length: 15 Mins```
+:new_moon: ```BlackHole: 20 Days``` :clock2: ```Evaluation Length: 15 Mins```
 
 <br>
 
 🖥️ Exam Rank 02 - https://github.com/pasqualerossi/42-School-Exam-Rank-02
 
-:new_moon: ```BlackHole: 0 Days```
-
-:alarm_clock: ```Exam Length: 2 to 4 Hours```
+:new_moon: ```BlackHole: 0 Days``` :alarm_clock: ```Exam Length: 2 to 4 Hours```
 
 
 <br>
@@ -109,25 +93,19 @@ The numbers below are a recommendation on which project to start with next in ea
 
 1️⃣ **Philosophers (C - Solo Project)** - https://github.com/pasqualerossi/Philosophers
 
-:new_moon: ```BlackHole: 40 Days```
-
-:clock2: ```Evaluation Length: 15 Mins```
+:new_moon: ```BlackHole: 40 Days``` :clock2: ```Evaluation Length: 15 Mins```
 
 <br>
 
 2️⃣ **Minishell (C - Group Project)** - https://github.com/pasqualerossi/Minishell
 
-:new_moon: ```BlackHole: 20 Days```
-
-:clock2: ```Evaluation Length: 15 Mins```
+:new_moon: ```BlackHole: 20 Days``` :clock2: ```Evaluation Length: 15 Mins```
 
 <br>
 
 🖥️ Exam Rank 03 - https://github.com/pasqualerossi/42-School-Exam-Rank-03
 
-:new_moon: ```BlackHole: 0 Days```
-
-:alarm_clock: ```Exam Length: 2 to 4 Hours```
+:new_moon: ```BlackHole: 0 Days``` :alarm_clock: ```Exam Length: 2 to 4 Hours```
 
 
 <br>
@@ -139,33 +117,25 @@ The numbers below are a recommendation on which project to start with next in ea
 
 1️⃣ **NetPractice (Networking - Solo Project)** - https://github.com/pasqualerossi/NetPractice
 
-:new_moon: ```BlackHole: 30 Days```
-
-:clock2: ```Evaluation Length: 15 Mins```
+:new_moon: ```BlackHole: 30 Days``` :clock2: ```Evaluation Length: 15 Mins```
 
 <br>
 
 2️⃣ **Cub3D (C - Group Project)** - https://github.com/pasqualerossi/Cub3D
 
-:new_moon: ```BlackHole: 30 Days```
-
-:clock2: ```Evaluation Length: 15 Mins```
+:new_moon: ```BlackHole: 30 Days``` :clock2: ```Evaluation Length: 15 Mins```
 
 <br>
 
 3️⃣ **C++ Modules 00-04 (C++ - Solo Projects)** - https://github.com/pasqualerossi/C-Plus-Plus
 
-:new_moon: ```BlackHole: 50 Days```
-
-:clock2: ```Evaluation Length: 15 Mins each Module```
+:new_moon: ```BlackHole: 50 Days``` :clock2: ```Evaluation Length: 15 Mins each Module```
 
 <br>
 
 🖥️ Exam Rank 04 - https://github.com/pasqualerossi/42-School-Exam-Rank-04
 
-:new_moon: ```BlackHole: 0 Days```
-
-:alarm_clock: ```Exam Length: 2 to 4 Hours```
+:new_moon: ```BlackHole: 0 Days``` :alarm_clock: ```Exam Length: 2 to 4 Hours```
 
 
 <br>
@@ -178,39 +148,25 @@ The numbers below are a recommendation on which project to start with next in ea
 
 :one: **C++ Modules 05-09 (C++ - Solo Projects)** - https://github.com/pasqualerossi/C-Plus-Plus
 
-:white_check_mark: ```Evaluator: Common Core Rank 01```
-
-:clock2: ```Evaluation Length: 15 Mins each Module```
-
-:new_moon: ```BlackHole: Unknown Yet```
+:new_moon: ```BlackHole: Unknown Yet``` :clock2: ```Evaluation Length: 15 Mins each Module```  :white_check_mark: ```Evaluator: Common Core Rank 01```
 
 <br>
 
 :two: **Ft_irc (C++ - Group Project)** - https://github.com/pasqualerossi/IRC
 
-:white_check_mark: ```Evaluator: Common Core Rank 02```
-
-:clock2: ```Evaluation Length: 1 Hour```
-
-:new_moon: ```BlackHole: 80 Days```
+:new_moon: ```BlackHole: 80 Days``` :clock2: ```Evaluation Length: 1 Hour```  :white_check_mark: ```Evaluator: Common Core Rank 02```
 
 <br>
 
 :three: **Inception (Docker - Solo Project)** - https://github.com/pasqualerossi/Inception
 
-:white_check_mark: ```Evaluator: Common Core Rank 02```
-
-:clock2: ```Evaluation Length: 30 Mins```
-
-:new_moon: ```BlackHole: 30 Days```
+:new_moon: ```BlackHole: 30 Days``` :clock2: ```Evaluation Length: 30 Mins```  :white_check_mark: ```Evaluator: Common Core Rank 02```
 
 <br>
 
 🖥️ Exam Rank 05 - https://github.com/pasqualerossi/42-School-Exam-Rank-05
 
-:new_moon: ```BlackHole: 0 Days```
-
-:alarm_clock: ```Exam Length: 2 to 4 Hours```
+:new_moon: ```BlackHole: 0 Days``` :alarm_clock: ```Exam Length: 2 to 4 Hours```
 
 <br>
 
@@ -220,23 +176,21 @@ The numbers below are a recommendation on which project to start with next in ea
 
 1️⃣ **Ft_Transcendence (NestJS, TypeScript, PostgreSQL & OAuth - Group Project)** - https://github.com/pasqualerossi/Transcendence
 
-:white_check_mark: ```Evaluator: Common Core Rank 03```
-
-:clock2: ```Evaluation Length: 1 Hour```
-
-:new_moon: ```BlackHole: 40 Days```
+:new_moon: ```BlackHole: 40 Days``` :clock2: ```Evaluation Length: 1 Hour```  :white_check_mark: ```Evaluator: Common Core Rank 03```
 
 <br>
 
 🖥️ Exam Rank 06 - https://github.com/pasqualerossi/42-School-Exam-Rank-06
 
-:new_moon: ```BlackHole: 0 Days```
-
-:alarm_clock: ```Exam Length: 2 to 4 Hours```
+:new_moon: ```BlackHole: 0 Days``` :alarm_clock: ```Exam Length: 2 to 4 Hours```
 
 <br>
 
+<div align="center">
+
 ### :balloon: END OF THE COMMON CORE :balloon:
+
+</div>
 
 <br>
 <br>
