@@ -21,10 +21,9 @@ The numbers below are a recommendation on which project to start with next in ea
   - [Peer Finder By Project Completion](https://42evaluators.com/peerfinder/)
 
 <br>
+<br>
 
 :new_moon: ```You Start The School With 77 BlackHole Days.```
-
-<br>
 
 ## ⚪ Common Core Rank 00
 
@@ -244,23 +243,21 @@ The numbers below are a recommendation on which project to start with next in ea
 
 ## :one: Overview
 
-:warning: ```Note: Overview will be restructed soon.```
-
 <br>
 
 21 Assessments (which is half of 42).
 
 </div>
 
-- **15 Projects Total** 
+- **14 Projects Total** 
   - 9 in C
-  - 2 in C++
+  - 1 in C++
   - 1 in Virtual Machine
   - 1 in Networking
   - 1 in Docker
   - 1 in Web Development
   
-- **1 Mini-Piscine**
+- **2 Mini-Piscines (CPP00-04 & CPP05-09)**
   - In C++
 
 - **5 Exams**
@@ -268,7 +265,7 @@ The numbers below are a recommendation on which project to start with next in ea
   - 1 in C++
 
 - **4 Projects are Group Projects**
-  - Minishell (2 People Max)
-  - Cub3D or MiniRT (2 People Max)
+  - Minishell (2 People)
+  - Cub3D or MiniRT (2 People)
   - IRC or Web_Serv (2 To 3 People)
   - Ft_Transcendence (3 To 5 People)
