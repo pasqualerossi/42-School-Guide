@@ -156,7 +156,7 @@ The numbers below are a recommendation on which project to start with next in ea
 
 3️⃣ **C++ Modules 00-04 (C++ - Solo Projects)** - https://github.com/pasqualerossi/C-Plus-Plus
 
-:new_moon: ```BlackHole: Unknown Yet```
+:new_moon: ```BlackHole: 50 Days```
 
 :clock2: ```Evaluation Length: 15 Mins each Module```
 
