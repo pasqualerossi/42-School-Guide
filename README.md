@@ -21,6 +21,7 @@
 ### :white_check_mark: Evaluation
 ```
 - To be evaluated on projects in Common Core Rank 05 and Common Core Rank 06, the evaluator requires to have completed a minimum number of projects and exams in order for them to evaluate you.
+- Some projects are Moulinette and Peer Graded and some are just Peer Graded.
 ```
 Use these tools to find people on your campus who can evaluate you:
   - [Peer Finder By Current Project](https://find-peers.codam.nl/)
@@ -36,7 +37,7 @@ Use these tools to find people on your campus who can evaluate you:
 
 1️⃣ **Libft (C - Solo Project)** - https://github.com/pasqualerossi/Libft
 
-:new_moon: ```BlackHole: 60 Days``` :clock2: ```Evaluation Length: 15 Mins```
+:new_moon: ```BlackHole: 60 Days``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Moulinette and 3 Peers```
 
 <br>
 
@@ -46,19 +47,19 @@ Use these tools to find people on your campus who can evaluate you:
 
 1️⃣ **Born2BeRoot (Virtual Machine using Debian - Solo Project)** - https://github.com/pasqualerossi/Born2BeRoot-Guide
 
-:new_moon: ```BlackHole: 14 Days``` :clock2: ```Evaluation Length: 1 Hour```
+:new_moon: ```BlackHole: 14 Days``` | :clock2: ```Evaluation Length: 1 Hour``` | :busts_in_silhouette: ```Only 3 Peers```
 
 <br>
 
 2️⃣ **Ft_Printf (C - Solo Project)** - https://github.com/pasqualerossi/Printf
 
-:new_moon: ```BlackHole: 20 Days``` :clock2: ```Evaluation Length: 15 Mins```
+:new_moon: ```BlackHole: 20 Days``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Moulinette and 3 Peers```
 
 <br>
 
 3️⃣ **Get_Next_Line (C - Solo Project)** - https://github.com/pasqualerossi/Get_Next_Line 
 
-:new_moon: ```BlackHole: 20 Days``` :clock2: ```Evaluation Length: 15 Mins```
+:new_moon: ```BlackHole: 20 Days``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Moulinette and 3 Peers```
 
 
 <br>
@@ -69,25 +70,25 @@ Use these tools to find people on your campus who can evaluate you:
 
 1️⃣ **MiniTalk** **(C - Solo Project)** - https://github.com/pasqualerossi/MiniTalk
 
-:new_moon: ```BlackHole: 20 Days``` :clock2: ```Evaluation Length: 15 Mins```
+:new_moon: ```BlackHole: 20 Days``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Only 3 Peers```
 
 <br>
 
 2️⃣ **So_Long** **(C - Solo Project)** - https://github.com/pasqualerossi/So_Long
 
-:new_moon: ```BlackHole: 20 Days``` :clock2: ```Evaluation Length: 15 Mins```
+:new_moon: ```BlackHole: 20 Days``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Only 3 Peers```
 
 <br>
 
 3️⃣ **Push_Swap (C - Solo Project)** - https://github.com/pasqualerossi/Push_Swap
 
-:new_moon: ```BlackHole: 20 Days``` :clock2: ```Evaluation Length: 15 Mins```
+:new_moon: ```BlackHole: 20 Days``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Only 3 Peers```
 
 <br>
 
 🖥️ Exam Rank 02 - https://github.com/pasqualerossi/42-School-Exam-Rank-02
 
-:new_moon: ```BlackHole: 0 Days``` :alarm_clock: ```Exam Length: 2 to 4 Hours```
+:new_moon: ```BlackHole: 0 Days``` | :alarm_clock: ```Exam Length: 2 to 4 Hours``` | :busts_in_silhouette: ```Moulinette Only```
 
 
 <br>
@@ -98,19 +99,19 @@ Use these tools to find people on your campus who can evaluate you:
 
 1️⃣ **Philosophers (C - Solo Project)** - https://github.com/pasqualerossi/Philosophers
 
-:new_moon: ```BlackHole: 40 Days``` :clock2: ```Evaluation Length: 15 Mins```
+:new_moon: ```BlackHole: 40 Days``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Only 3 Peers```
 
 <br>
 
 2️⃣ **Minishell (C - Group Project)** - https://github.com/pasqualerossi/Minishell
 
-:new_moon: ```BlackHole: 20 Days``` :clock2: ```Evaluation Length: 15 Mins```
+:new_moon: ```BlackHole: 20 Days``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Only 3 Peers```
 
 <br>
 
 🖥️ Exam Rank 03 - https://github.com/pasqualerossi/42-School-Exam-Rank-03
 
-:new_moon: ```BlackHole: 0 Days``` :alarm_clock: ```Exam Length: 2 to 4 Hours```
+:new_moon: ```BlackHole: 0 Days``` | :alarm_clock: ```Exam Length: 2 to 4 Hours``` | :busts_in_silhouette: ```Moulinette Only```
 
 
 <br>
@@ -122,25 +123,25 @@ Use these tools to find people on your campus who can evaluate you:
 
 1️⃣ **NetPractice (Networking - Solo Project)** - https://github.com/pasqualerossi/NetPractice
 
-:new_moon: ```BlackHole: 30 Days``` :clock2: ```Evaluation Length: 15 Mins```
+:new_moon: ```BlackHole: 30 Days``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Only 3 Peers```
 
 <br>
 
 2️⃣ **Cub3D (C - Group Project)** - https://github.com/pasqualerossi/Cub3D
 
-:new_moon: ```BlackHole: 30 Days``` :clock2: ```Evaluation Length: 15 Mins```
+:new_moon: ```BlackHole: 30 Days``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Only 3 Peers```
 
 <br>
 
 3️⃣ **C++ Modules 00-04 (C++ - Solo Projects)** - https://github.com/pasqualerossi/C-Plus-Plus
 
-:new_moon: ```BlackHole: 50 Days``` :clock2: ```Evaluation Length: 15 Mins each Module```
+:new_moon: ```BlackHole: 50 Days``` | :clock2: ```Evaluation Length: 15 Mins each Module``` | :busts_in_silhouette: ```2 Peers Per Module```
 
 <br>
 
 🖥️ Exam Rank 04 - https://github.com/pasqualerossi/42-School-Exam-Rank-04
 
-:new_moon: ```BlackHole: 0 Days``` :alarm_clock: ```Exam Length: 2 to 4 Hours```
+:new_moon: ```BlackHole: 0 Days``` | :alarm_clock: ```Exam Length: 2 to 4 Hours``` | :busts_in_silhouette: ```Moulinette Only```
 
 
 <br>
@@ -153,25 +154,25 @@ Use these tools to find people on your campus who can evaluate you:
 
 :one: **C++ Modules 05-09 (C++ - Solo Projects)** - https://github.com/pasqualerossi/C-Plus-Plus
 
-:new_moon: ```BlackHole: Unknown Yet``` :clock2: ```Evaluation Length: 15 Mins each Module```  :white_check_mark: ```Evaluator: Common Core Rank 01```
+:new_moon: ```BlackHole: Unknown Yet``` | :clock2: ```Evaluation Length: 15 Mins each Module``` | :white_check_mark: ```Evaluator: Common Core Rank 01``` | :busts_in_silhouette: ```2 Peers Per Module```
 
 <br>
 
 :two: **Ft_irc (C++ - Group Project)** - https://github.com/pasqualerossi/IRC
 
-:new_moon: ```BlackHole: 80 Days``` :clock2: ```Evaluation Length: 1 Hour```  :white_check_mark: ```Evaluator: Common Core Rank 02```
+:new_moon: ```BlackHole: 80 Days``` | :clock2: ```Evaluation Length: 1 Hour``` | :white_check_mark: ```Evaluator: Common Core Rank 02``` | :busts_in_silhouette: ```Only 3 Peers```
 
 <br>
 
 :three: **Inception (Docker - Solo Project)** - https://github.com/pasqualerossi/Inception
 
-:new_moon: ```BlackHole: 30 Days``` :clock2: ```Evaluation Length: 30 Mins```  :white_check_mark: ```Evaluator: Common Core Rank 02```
+:new_moon: ```BlackHole: 30 Days``` | :clock2: ```Evaluation Length: 30 Mins``` | :white_check_mark: ```Evaluator: Common Core Rank 02``` | :busts_in_silhouette: ```Only 3 Peers```
 
 <br>
 
 🖥️ Exam Rank 05 - https://github.com/pasqualerossi/42-School-Exam-Rank-05
 
-:new_moon: ```BlackHole: 0 Days``` :alarm_clock: ```Exam Length: 2 to 4 Hours```
+:new_moon: ```BlackHole: 0 Days``` | :alarm_clock: ```Exam Length: 2 to 4 Hours``` | :busts_in_silhouette: ```Moulinette Only```
 
 <br>
 
@@ -181,13 +182,13 @@ Use these tools to find people on your campus who can evaluate you:
 
 1️⃣ **Ft_Transcendence (NestJS, TypeScript, PostgreSQL & OAuth - Group Project)** - https://github.com/pasqualerossi/Transcendence
 
-:new_moon: ```BlackHole: 40 Days``` :clock2: ```Evaluation Length: 1 Hour```  :white_check_mark: ```Evaluator: Common Core Rank 03```
+:new_moon: ```BlackHole: 40 Days``` | :clock2: ```Evaluation Length: 1 Hour``` | :white_check_mark: ```Evaluator: Common Core Rank 03``` | :busts_in_silhouette: ```Only 3 Peers```
 
 <br>
 
 🖥️ Exam Rank 06 - https://github.com/pasqualerossi/42-School-Exam-Rank-06
 
-:new_moon: ```BlackHole: 0 Days``` :alarm_clock: ```Exam Length: 2 to 4 Hours```
+:new_moon: ```BlackHole: 0 Days``` | :alarm_clock: ```Exam Length: 2 to 4 Hours``` | :busts_in_silhouette: ```Moulinette Only```
 
 <br>
 
