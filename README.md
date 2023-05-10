@@ -197,12 +197,6 @@
 
 ## :one: Overview
 
-<br>
-
-21 Assessments (which is half of 42).
-
-</div>
-
 - **14 Projects Total** 
   - 9 in C
   - 1 in C++
