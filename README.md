@@ -4,10 +4,6 @@
 
 </div>
 
-<br>
-
-## :bookmark: Notes
-
 ### :one: Which Project
 - The numbers next to the project name below are a recommendation on which project to start with in each ring below.
 ### :new_moon: BlackHole
