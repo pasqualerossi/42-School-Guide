@@ -119,7 +119,7 @@
 
 2️⃣ **Cub3D (C - Group Project)** - https://github.com/pasqualerossi/Cub3D
 
-:new_moon: ```BlackHole: 30 Days``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Only 3 Peers```
+:new_moon: ```BlackHole: 30 Days``` | :clock2: ```Evaluation Length: 45 Mins``` | :busts_in_silhouette: ```Only 3 Peers```
 
 <br>
 
