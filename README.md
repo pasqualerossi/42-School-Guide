@@ -180,7 +180,7 @@
 
 <div align="center">
 
-### :balloon: END OF THE COMMON CORE :balloon:
+### :balloon: END OF THE 42 COMMON CORE :balloon:
 
 </div>
 
