@@ -1,18 +1,14 @@
-<div align="center">
-
-# 42 School Projects and Exams
-
-</div>
+# Information
 
 ### :one: Which Project
 - The numbers next to the project name below are a recommendation on which project to start with in each ring below.
 ### :new_moon: BlackHole
 - The Blackhole numbers below are not 100% accurate, as the blackhole days varies from student to student. 
 - The Blackhole days below each project are days given once the project is completed. 
-- No Blackhole days are given for exams.
+- No Blackhole days are given for exams unfortunately. 
 ### :white_check_mark: Evaluation
-- To be evaluated on projects in Common Core Rank 05 and Common Core Rank 06, the evaluator requires to have completed a minimum number of projects and exams in order for them to evaluate you.
-- Some projects are Moulinette and Peer Graded and some are just Peer Graded.
+- Some projects are both Moulinette and Peer Graded and some projects are just Peer Graded.
+- Some projects requires evaluator to have completed a minimum number of projects and exams in order for them to evaluate you.
 - Use these tools to find people on your campus who can evaluate you:
   - [Peer Finder By Current Project](https://find-peers.codam.nl/)
   - [Peer Finder By Project Completion](https://42evaluators.com/peerfinder/)
