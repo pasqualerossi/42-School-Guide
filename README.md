@@ -23,7 +23,7 @@
 
 1️⃣ **Libft (C - Solo Project)** - https://github.com/pasqualerossi/Libft
 
-:new_moon: ```BlackHole: 60 Days``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Moulinette and 3 Peers```
+:new_moon: ```BlackHole: 60 Days Without Bonus``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Moulinette and 3 Peers``` | :white_check_mark: ```3 Evaluation Points```
 
 <br>
 
@@ -33,19 +33,19 @@
 
 1️⃣ **Born2BeRoot (Virtual Machine using Debian - Solo Project)** - https://github.com/pasqualerossi/Born2BeRoot-Guide
 
-:new_moon: ```BlackHole: 14 Days``` | :clock2: ```Evaluation Length: 1 Hour``` | :busts_in_silhouette: ```Only 3 Peers```
+:new_moon: ```BlackHole: 14 Days Without Bonus``` | :clock2: ```Evaluation Length: 1 Hour``` | :busts_in_silhouette: ```Only 3 Peers``` | :white_check_mark: ```3 Evaluation Points```
 
 <br>
 
 2️⃣ **Ft_Printf (C - Solo Project)** - https://github.com/pasqualerossi/Printf
 
-:new_moon: ```BlackHole: 20 Days``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Moulinette and 3 Peers```
+:new_moon: ```BlackHole: 20 Days Without Bonus``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Moulinette and 3 Peers``` | :white_check_mark: ```3 Evaluation Points```
 
 <br>
 
 3️⃣ **Get_Next_Line (C - Solo Project)** - https://github.com/pasqualerossi/Get_Next_Line 
 
-:new_moon: ```BlackHole: 20 Days``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Moulinette and 3 Peers```
+:new_moon: ```BlackHole: 20 Days Without Bonus``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Moulinette and 3 Peers``` | :white_check_mark: ```3 Evaluation Points```
 
 
 <br>
@@ -56,19 +56,19 @@
 
 1️⃣ **MiniTalk** **(C - Solo Project)** - https://github.com/pasqualerossi/MiniTalk
 
-:new_moon: ```BlackHole: 20 Days``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Only 3 Peers```
+:new_moon: ```BlackHole: 20 Days Without Bonus``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Only 3 Peers``` | :white_check_mark: ```3 Evaluation Points```
 
 <br>
 
 2️⃣ **So_Long** **(C - Solo Project)** - https://github.com/pasqualerossi/So_Long
 
-:new_moon: ```BlackHole: 20 Days``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Only 3 Peers```
+:new_moon: ```BlackHole: 20 Days Without Bonus``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Only 3 Peers``` | :white_check_mark: ```3 Evaluation Points```
 
 <br>
 
 3️⃣ **Push_Swap (C - Solo Project)** - https://github.com/pasqualerossi/Push_Swap
 
-:new_moon: ```BlackHole: 20 Days``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Only 3 Peers```
+:new_moon: ```BlackHole: 20 Days Without Bonus``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Only 3 Peers``` | :white_check_mark: ```3 Evaluation Points```
 
 <br>
 
@@ -85,13 +85,13 @@
 
 1️⃣ **Philosophers (C - Solo Project)** - https://github.com/pasqualerossi/Philosophers
 
-:new_moon: ```BlackHole: 40 Days``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Only 3 Peers```
+:new_moon: ```BlackHole: 40 Days Without Bonus``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Only 3 Peers``` | :white_check_mark: ```3 Evaluation Points```
 
 <br>
 
 2️⃣ **Minishell (C - Group Project)** - https://github.com/pasqualerossi/Minishell
 
-:new_moon: ```BlackHole: 20 Days``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Only 3 Peers```
+:new_moon: ```BlackHole: 20 Days Without Bonus``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Only 3 Peers``` | :white_check_mark: ```3 Evaluation Points```
 
 <br>
 
@@ -109,25 +109,25 @@
 
 1️⃣ **NetPractice (Networking - Solo Project)** - https://github.com/pasqualerossi/NetPractice
 
-:new_moon: ```BlackHole: 30 Days``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Only 3 Peers```
+:new_moon: ```BlackHole: 30 Days Without Bonus``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Only 3 Peers``` | :white_check_mark: ```3 Evaluation Points```
 
 <br>
 
 2️⃣ **Cub3D (C - Group Project)** - https://github.com/pasqualerossi/Cub3D
 
-:new_moon: ```BlackHole: 30 Days``` | :clock2: ```Evaluation Length: 45 Mins``` | :busts_in_silhouette: ```Only 3 Peers```
+:new_moon: ```BlackHole: 30 Days Without Bonus``` | :clock2: ```Evaluation Length: 45 Mins``` | :busts_in_silhouette: ```Only 3 Peers``` | :white_check_mark: ```3 Evaluation Points```
 
 <br>
 
 3️⃣ **C++ Modules 00-04 (C++ - Solo Projects)** - https://github.com/pasqualerossi/C-Plus-Plus
 
-:new_moon: ```BlackHole: 50 Days``` | :clock2: ```Evaluation Length: 15 Mins each Module``` | :busts_in_silhouette: ```2 Peers Per Module```
+:new_moon: ```BlackHole: 50 Days Without Bonus``` | :clock2: ```Evaluation Length: 15 Mins each Module``` | :busts_in_silhouette: ```2 Peers Per Module``` | :white_check_mark: ```2 Evaluation Points Per Module```
 
 <br>
 
 🖥️ Exam Rank 04 - https://github.com/pasqualerossi/42-School-Exam-Rank-04
 
-:new_moon: ```BlackHole: 0 Days``` | :alarm_clock: ```Exam Length: 2 to 4 Hours``` | :busts_in_silhouette: ```Moulinette Only```
+:new_moon: ```BlackHole: 0 Days Without Bonus``` | :alarm_clock: ```Exam Length: 2 to 4 Hours``` | :busts_in_silhouette: ```Moulinette Only``` 
 
 
 <br>
@@ -140,19 +140,19 @@
 
 :one: **C++ Modules 05-09 (C++ - Solo Projects)** - https://github.com/pasqualerossi/C-Plus-Plus
 
-:new_moon: ```BlackHole: Unknown Yet``` | :clock2: ```Evaluation Length: 15 Mins each Module``` | :white_check_mark: ```Evaluator: Common Core Rank 01``` | :busts_in_silhouette: ```2 Peers Per Module```
+:new_moon: ```BlackHole: Unknown Yet``` | :clock2: ```Evaluation Length: 15 Mins each Module``` | :white_check_mark: ```Evaluator: Common Core Rank 01``` | :busts_in_silhouette: ```2 Peers Per Module``` | :white_check_mark: ```2 Evaluation Points Per Module```
 
 <br>
 
 :two: **Ft_irc (C++ - Group Project)** - https://github.com/pasqualerossi/IRC
 
-:new_moon: ```BlackHole: 80 Days``` | :clock2: ```Evaluation Length: 1 Hour``` | :white_check_mark: ```Evaluator: Common Core Rank 02``` | :busts_in_silhouette: ```Only 3 Peers```
+:new_moon: ```BlackHole: 80 Days Without Bonus``` | :clock2: ```Evaluation Length: 1 Hour``` | :white_check_mark: ```Evaluator: Common Core Rank 02``` | :busts_in_silhouette: ```Only 3 Peers``` | :white_check_mark: ```3 Evaluation Points```
 
 <br>
 
 :three: **Inception (Docker - Solo Project)** - https://github.com/pasqualerossi/Inception
 
-:new_moon: ```BlackHole: 30 Days``` | :clock2: ```Evaluation Length: 30 Mins``` | :white_check_mark: ```Evaluator: Common Core Rank 02``` | :busts_in_silhouette: ```Only 3 Peers```
+:new_moon: ```BlackHole: 30 Days Without Bonus``` | :clock2: ```Evaluation Length: 30 Mins``` | :white_check_mark: ```Evaluator: Common Core Rank 02``` | :busts_in_silhouette: ```Only 3 Peers``` | :white_check_mark: ```3 Evaluation Points```
 
 <br>
 
@@ -168,7 +168,7 @@
 
 1️⃣ **Ft_Transcendence (NestJS, TypeScript, PostgreSQL & OAuth - Group Project)** - https://github.com/pasqualerossi/Transcendence
 
-:new_moon: ```BlackHole: 40 Days``` | :clock2: ```Evaluation Length: 1 Hour``` | :white_check_mark: ```Evaluator: Common Core Rank 03``` | :busts_in_silhouette: ```Only 3 Peers```
+:new_moon: ```BlackHole: 40 Days Without Bonus``` | :clock2: ```Evaluation Length: 1 Hour``` | :white_check_mark: ```Evaluator: Common Core Rank 03``` | :busts_in_silhouette: ```Only 3 Peers``` | :white_check_mark: ```3 Evaluation Points```
 
 <br>
 
