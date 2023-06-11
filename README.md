@@ -1,3 +1,13 @@
+:new_moon: ```Number of Days You Get When You Pass The Project```
+
+:clock2: ```How Long The Evaluation For That Project Is```
+
+:busts_in_silhouette: ```Who Marks Your Project```
+
+:white_check_mark: ```How Many Evaluation Points You Need To Be Marked On That Project```
+
+<br>
+
 :new_moon: ```You Start The School With 77 BlackHole Days.```
 
 ## ⚪ Common Core Rank 00
