@@ -225,19 +225,19 @@
 # 🏆 Project Ranking
 Below is a list of 42 Common Core projects that I have ranked based on my personal preference.
 
-> 1. So_Long
-> 2. Cub3D
-> 3. Ft_Transcendence
-> 4. Ft_IRC
-> 5. MiniTalk
-> 6. Ft_Printf
-> 7. Get_Next_Line
-> 8. Philosophers
-> 9. Libft
-> 10. NetPractice
-> 11. Inception
-> 12. Born2BeRoot
-> 13. Minishell
-> 14. C++ Modules
-> 15. Push_Swap
-> 16. Exams
+> 1. So_Long `2D Game`
+> 2. Cub3D `3D Game`
+> 3. Ft_Transcendence `Full-Stack Web Application`
+> 4. Ft_IRC `Internet Relay Chat`
+> 5. MiniTalk `Exchange Messages using UNIX Signals`
+> 6. Ft_Printf `Recreating Printf Function in C`
+> 7. Get_Next_Line `Read a Line in a File Descriptor`
+> 8. Philosophers `Threads and Mutexes`
+> 9. Libft `Library of C Functions`
+> 10. NetPractice `Introduction to Networking`
+> 11. Inception `Docker Containers`
+> 12. Born2BeRoot `Virtual Machine`
+> 13. Minishell `Creating a Shell`
+> 14. C++ Modules `Introduction to C++`
+> 15. Push_Swap `Sort a Stack of Random Numbers`
+> 16. Exams `C and C++ Exams`
