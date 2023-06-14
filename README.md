@@ -231,8 +231,8 @@ Below is a list of 42 Common Core projects that I have ranked based on my person
 > 4. Ft_IRC
 > 5. MiniTalk
 > 6. Ft_Printf
-> 7. Philosophers
-> 8. Get_Next_Line
+> 7. Get_Next_Line
+> 8. Philosophers
 > 9. Libft
 > 10. NetPractice
 > 11. Inception
