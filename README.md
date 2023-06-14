@@ -219,3 +219,25 @@
   - Cub3D or MiniRT (2 People)
   - IRC or Web_Serv (2 To 3 People)
   - Ft_Transcendence (3 To 5 People)
+
+<br>
+
+# 🏆 Project Ranking
+Below is a list of 42 Common Core projects that I have ranked based on my personal preference.
+
+> 1. So_Long
+> 2. Cub3D
+> 3. Ft_Transcendence
+> 4. Ft_IRC
+> 5. MiniTalk
+> 6. Ft_Printf
+> 7. Philosophers
+> 8. Get_Next_Line
+> 9. Libft
+> 10. NetPractice
+> 11. Inception
+> 12. Born2BeRoot
+> 13. Minishell
+> 14. C++ Modules
+> 15. Push_Swap
+> 16. Exams
