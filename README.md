@@ -11,7 +11,7 @@
 <br>
 <br>
 
-:new_moon: ```You Start The School With 77 BlackHole Days.```
+You Start The Common Core With 77 BlackHole Days.
 
 ## ⚪ Common Core Rank 00
 
