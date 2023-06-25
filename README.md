@@ -1,6 +1,6 @@
 :one: ```The Numbers in Each Ring is Recommended Which Project to Start With```
 
-:new_moon: ```Number of Days You Get When You Pass The Project```
+:new_moon: ```Number of Days You Get When You Pass The Project (Numbers Below Are Not 100% Accurate)```
 
 :clock2: ```How Long The Evaluation For That Project Is```
 
