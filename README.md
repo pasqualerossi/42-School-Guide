@@ -142,13 +142,13 @@ You Start The Common Core With 77 BlackHole Days.
 
 :two: **Ft_irc (C++ - Group Project)** - https://github.com/pasqualerossi/IRC
 
-:new_moon: ```BlackHole: 80 Days Without Bonus``` | :clock2: ```Evaluation Length: 1 Hour``` | :white_check_mark: ```Evaluator: Common Core Rank 02``` | :busts_in_silhouette: ```Only 3 Peers``` | :white_check_mark: ```3 Evaluation Points```
+:new_moon: ```BlackHole: 80 Days Without Bonus``` | :clock2: ```Evaluation Length: 1 Hour``` | :busts_in_silhouette: ```Only 3 Peers``` | :white_check_mark: ```3 Evaluation Points```
 
 <br>
 
 :three: **Inception (Docker - Solo Project)** - https://github.com/pasqualerossi/Inception
 
-:new_moon: ```BlackHole: 30 Days Without Bonus``` | :clock2: ```Evaluation Length: 30 Mins``` | :white_check_mark: ```Evaluator: Common Core Rank 02``` | :busts_in_silhouette: ```Only 3 Peers``` | :white_check_mark: ```3 Evaluation Points```
+:new_moon: ```BlackHole: 30 Days Without Bonus``` | :clock2: ```Evaluation Length: 30 Mins``` | :white_check_mark:| :busts_in_silhouette: ```Only 3 Peers``` | :white_check_mark: ```3 Evaluation Points```
 
 <br>
 
@@ -164,7 +164,7 @@ You Start The Common Core With 77 BlackHole Days.
 
 1️⃣ **Ft_Transcendence (NestJS, TypeScript, PostgreSQL & OAuth - Group Project)** - https://github.com/pasqualerossi/Transcendence
 
-:new_moon: ```BlackHole: 40 Days Without Bonus``` | :clock2: ```Evaluation Length: 1 Hour``` | :white_check_mark: ```Evaluator: Common Core Rank 03``` | :busts_in_silhouette: ```Only 3 Peers``` | :white_check_mark: ```3 Evaluation Points```
+:new_moon: ```BlackHole: 40 Days Without Bonus``` | :clock2: ```Evaluation Length: 1 Hour``` | :white_check_mark: | :busts_in_silhouette: ```Only 3 Peers``` | :white_check_mark: ```3 Evaluation Points```
 
 <br>
 
