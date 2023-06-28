@@ -50,7 +50,7 @@ You Start The Common Core With 77 BlackHole Days.
 
 </div>
 
-1️⃣ **MiniTalk** **(C - Solo Project)** - https://github.com/pasqualerossi/MiniTalk
+1️⃣ **MiniTalk** **(C - Solo Project)**
 
 :new_moon: ```BlackHole: 20 Days Without Bonus``` | :clock2: ```Evaluation Length: 15 Mins``` | :busts_in_silhouette: ```Only 3 Peers``` | :white_check_mark: ```3 Evaluation Points```
 
