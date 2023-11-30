@@ -182,6 +182,14 @@ You Start The Common Core With 77 BlackHole Days.
 
 <br>
 
+### ℹ️ Common Core
+
+- 🖥️ Only Libft, Printf, Get_Next_Line and Exams are moulinette graded, with the remaining projects being only peer-graded. 
+
+- ☑️ A total of 62 Evaluation Points is required to complete the Common Core.
+
+<br>
+
 # Information
 
 ### :one: Which Project
