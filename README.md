@@ -1,19 +1,3 @@
-## Common Core Information
-
-:information_source: Contents
-
-- :one: ```The Numbers in Each Ring is Recommended Which Project to Start With```
-
-- :new_moon: ```Number of Days You Get When You Pass The Project (Numbers Below Are Not 100% Accurate)```
-
-- :clock2: ```How Long The Evaluation For That Project Is```
-
-- :busts_in_silhouette: ```Who Marks Your Project```
-
-- :white_check_mark: ```How Many Evaluation Points You Need To Be Marked On That Project```
-
-<br>
-
 You Start The Common Core With 77 BlackHole Days.
 
 ## ⚪ Common Core Rank 00
