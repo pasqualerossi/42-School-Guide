@@ -26,3 +26,6 @@
 
 </td>
 </tr> </table>
+
+> [!TIP]
+> :one: - Recommend order I would do the projects in.
