@@ -9,7 +9,7 @@
 | :one: Order | 🖥️  Project | :robot: PL/Program |:clock2: Evaluation Length | :busts_in_silhouette: Evaluation | :white_check_mark: Evaluation Points Required | 🧑‍🤝‍🧑 Group Project | 
 |--|--|--|--|--|--|--|
 | :one: | [Libft](https://github.com/pasqualerossi/Libft) | C | 15 Mins | Moulinette and 3 Peers | 3 | No |
-| :two: | [Born2BeRoot](https://github.com/pasqualerossi/Born2BeRoot-Guide) | Debian | 1 Hour | 3 Peers | 3 | No |
+| :two: | [Born2BeRoot](https://github.com/pasqualerossi/Born2BeRoot-Guide) | VirtualBox | 1 Hour | 3 Peers | 3 | No |
 | :three: | [Printf](https://github.com/pasqualerossi/Printf) | C | 15 Mins | Moulinette and 3 Peers | 3 | No |
 | :four: | [Get_Next_Line](https://github.com/pasqualerossi/Get_Next_Line) | C | 15 Mins | Moulinette and 3 Peers | 3 | No |
 | :five: | [MiniTalk](https://github.com/pasqualerossi/MiniTalk) | C | 15 Mins | 3 Peers | 3 | No |
