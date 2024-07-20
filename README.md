@@ -38,8 +38,6 @@
 > 
 > :clock2: - If possible, triple book evaluations at the same time for the same project (be evaluated once instead of 3 seperate times).
 >
-> :white_check_mark: - 62 Evaluation Points (without any project failed) to complete all of the Common Core projects.
->
 > 🧑‍🏫 - Most projects will give you 1 Evaluation Point (with the exception of Born2BeRoot, IRC and Transcendence - 2 Evaluation Points) when you evaluate someone else's project.
 
 > [!NOTE]
