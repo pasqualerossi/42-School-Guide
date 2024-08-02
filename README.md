@@ -35,10 +35,6 @@
 
 > [!TIP]
 > :one: - This list is my recommend order I would do the projects in.
-> 
-> :clock2: - If possible, triple book evaluations at the same time for the same project (be evaluated once instead of 3 seperate times).
->
-> 🧑‍🏫 - Most projects will give you 1 Evaluation Point (with the exception of Born2BeRoot, IRC and Transcendence - 2 Evaluation Points) when you evaluate someone else's project.
 
 > [!NOTE]
 > If any of the information above has changed, please let me know by doing one of the following:
